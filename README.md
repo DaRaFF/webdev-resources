@@ -5,6 +5,7 @@ In the long run I will convert all wiki links to code.
 #Index
 
 * [Software Analysis / Design](#softwaredesign)
+* [eBooks](#ebook)
 * [Processes / Techniques](#process)
 
 
@@ -23,6 +24,13 @@ In the long run I will convert all wiki links to code.
 ## Software Patterns General
 * [Sourcemaking](http://sourcemaking.com) - Design Patterns and Refactoring - Collection and explanations of patterns, anti patterns, refactoring, uml
 
+# <a name="ebook" >eBooks</a>
+
+* [Node Beginner](http://www.nodebeginner.org/) - node.js for beginner
+* [proGit](http://progit.org/book/) - proGit
+* [The Little Book on Coffescript](http://arcturo.com/library/coffeescript/)
+* [Regex eBook German](http://www.regenechsen.de/phpwcms/index.php?id=66,0,0,1,0,0)
+* [Backbone.js Fundamentals](https://github.com/addyosmani/backbone-fundamentals#readme) - complete rund down of backbone.js applications including modular design, AMD, how to solve routing problems
 
 # <a name="process" >Processes / Techniques</a>
 
