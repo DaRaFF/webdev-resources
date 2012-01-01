@@ -6,6 +6,7 @@ In the long run I will convert all wiki links to code.
 
 * [Software Analysis / Design](#softwaredesign)
 * [eBooks](#ebook)
+* [Email Newsletter](#newsletter)
 * [Processes / Techniques](#process)
 
 
@@ -31,6 +32,12 @@ In the long run I will convert all wiki links to code.
 * [The Little Book on Coffescript](http://arcturo.com/library/coffeescript/)
 * [Regex eBook German](http://www.regenechsen.de/phpwcms/index.php?id=66,0,0,1,0,0)
 * [Backbone.js Fundamentals](https://github.com/addyosmani/backbone-fundamentals#readme) - complete rund down of backbone.js applications including modular design, AMD, how to solve routing problems
+
+# <a name="newsletter" >Email Newsletter</a>
+
+* [javascriptweekly](http://javascriptweekly.com/)
+* [html5weekly](http://html5weekly.com/)
+* [web-design-weekly](http://web-design-weekly.com/)
 
 # <a name="process" >Processes / Techniques</a>
 
