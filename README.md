@@ -32,6 +32,13 @@ In the long run I will convert all wiki links to code.
 * [The Little Book on Coffescript](http://arcturo.com/library/coffeescript/)
 * [Regex eBook German](http://www.regenechsen.de/phpwcms/index.php?id=66,0,0,1,0,0)
 * [Backbone.js Fundamentals](https://github.com/addyosmani/backbone-fundamentals#readme) - complete rund down of backbone.js applications including modular design, AMD, how to solve routing problems
+* [Eloquentjavascript](http://eloquentjavascript.net/) - free eBook by Marijn Haverbeke
+* [DIVE INTO HTML5](http://diveintohtml5.org/) - free eBook by Mark Pilgrim
+* [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - free eBook by Addy Osmani
+* [Building iPhone Apps with HTML, CSS, and JavaScript](http://ofps.oreilly.com/titles/9780596805784/) - free eBook by Jonathan Stark
+* [Javascript Bibliography](http://oreilly.com/catalog/0636920021926) - free eBook by editors of Safary books online
+* [OOP mit Javascript](http://www.peterkropff.de/site/javascript/oop.htm) - free eBook by Peter Kropff- german
+* [HTML5 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) - free eBook by Stefan Münz - german
 
 # <a name="newsletter" >Email Newsletter</a>
 
