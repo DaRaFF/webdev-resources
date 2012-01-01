@@ -5,6 +5,7 @@ In the long run I will convert all wiki links to code.
 #Index
 
 * [Software Analysis / Design](#softwaredesign)
+* [Great Resources](#greatresources)
 * [eBooks](#ebook)
 * [Email Newsletter](#newsletter)
 * [Processes / Techniques](#process)
@@ -24,6 +25,11 @@ In the long run I will convert all wiki links to code.
 
 ## Software Patterns General
 * [Sourcemaking](http://sourcemaking.com) - Design Patterns and Refactoring - Collection and explanations of patterns, anti patterns, refactoring, uml
+
+# <a name="greatresources" >Great Resources</a>
+* [makeawesomeweb](http://makeawesomeweb.com/) - link list with preview of the best web development tools
+* [JsGoodies](http://js.gd/) - daily links of interesting web tools
+* [move the web forward](http://movethewebforward.org/) - resources, tips for web development - initiative by paul irish, addy osmani and a lot of other respected people in the web developer scene
 
 # <a name="ebook" >eBooks</a>
 
