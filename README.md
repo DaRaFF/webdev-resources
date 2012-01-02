@@ -17,6 +17,7 @@ In the long run I will convert all wiki links to code.
 * [Browser Plugins](#browser-plugin)
 * [Email Newsletter](#newsletter)
 * [Processes / Techniques](#process)
+* [Security](#security)
 
 
 
@@ -153,7 +154,8 @@ In the long run I will convert all wiki links to code.
 * [.htaccess tester](http://htaccess.madewithlove.be/)
 * [Screenr](http://www.screenr.com/) - make online screencasts for free
 * [Sound and Movie Loops](http://www.hark.com/)
-* [Templatr](http://templatr.cc/) - Create online a webside template    
+* [Templatr](http://templatr.cc/) - Create online a webside template
+* [TuttiJs](http://tuttijs.com/) - Test Javascript on different browsers simultaneously                                  
 
 
 
@@ -268,3 +270,43 @@ In the long run I will convert all wiki links to code.
 
 * http://crisp.se/kanban/example - Kanban Cheat Sheet
 * http://www.creaffective.de/leistungen/seminare/mind-mapping/mind-mapping-online-training/kapitel1/ - Mindmap Course - german
+                                                                                                                      - 
+                                                                                                                      - 
+                                                                                                                      - 
+                                                                                                                      - 
+                                                                                                                      - 
+                                                                                                                      - 
+                                                                                                                      - 
+# <a name="security">Security</a>                                                                                                                      - # Security
+
+**OWASP**
+
+* [Open Web Application Security Project](https://www.owasp.org)
+* [OWASP Top 10 Tools and Tactics](http://resources.infosecinstitute.com/owasp-top-10-tools-and-tactics/)
+* [Webscarab](https://www.owasp.org/index.php/Category:OWASP_WebScarab_Project) - framework for analysing applications that communicate using the HTTP and HTTPS protocols
+* [Webgoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project) - is a deliberately insecure EE web application maintained by OWASP designed to teach web application security lessons
+
+
+**Security General**
+
+* http://www.exploit-db.com - The Exploit Database - Exploits, Shellcode, Vulnerability reports, 0days, remote exploits, local exploits, security articles, tutorials and more.
+
+**XSS - Cross Site Scripting / Security Testing Websides**
+
+* http://www.muschikrieger.de/blog/2008/05/05/xss-eine-einfuehrung-in-cross-site-scripting/
+* http://it-republik.de/php/news/About-Security-Weihnachts-Special-Lesetips-zur-Web-Sicherheit-053131.html ;
+* http://toys.lerdorf.com/archives/52-SQLi-Detection-Duh-Moment.html
+* http://code.google.com/p/skipfish/
+* http://google-gruyere.appspot.com/part1
+* http://google-gruyere.appspot.com/
+* [w3af](http://sourceforge.net/projects/w3af/) - Web Application Attack and Audit Framework
+* https://github.com/yaph/domxssscanner - DOMXSS Scanner is an online tool to scan source code for DOM based XSS vulnerabilities
+
+**PHP Security**
+
+* http://phpsec.org/projects/phpsecinfo/
+* http://www.limespace.de/2010/06/05/sicherheitslocher-in-php-scripten-finden/
+* http://sourceforge.net/projects/securityscanner/
+
+**Virus / Scanning**
+* www.unmaskparasites.com - Online malwarecheck to a webside 
