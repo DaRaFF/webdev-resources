@@ -64,6 +64,7 @@ I tried them to categorize and give them a structure.
 * [Front End Development Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/)
 * [Idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [Javascript Garden](http://bonsaiden.github.com/JavaScript-Garden/) - Best Practises for Javascript Programming
+* [HTML5 Semantics and Good Coding Practices](http://www.aniketpant.com/article/html5-semantics-and-good-coding-practices)
 
 
 
