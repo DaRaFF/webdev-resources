@@ -177,6 +177,7 @@ I tried them to categorize and give them a structure.
 * [Appendto](http://learn.appendto.com/) - Learning - jQuery and Javascript screencasts to learn jQuery and Javascript
 
 **YUI 3**
+
 * [JsRosettaStone](http://www.jsrosettastone.com/) - jquery vs yui3 comparison - all important commands
 * [Basic YUI3 Plugin Tutorial](http://patcavit.com/2010/07/01/simple-yui3-plugin-tutorial/) - Knowhow
 * [Building YUI3 Custom Modules](http://www.slideshare.net/caridy/building-yui-3-custom-modules) - Presentation
@@ -210,7 +211,7 @@ I tried them to categorize and give them a structure.
 * [HTTP Headers for Dummies](http://net.tutsplus.com/tutorials/other/http-headers-for-dummies/) - Knowhow
 * [Why Every Webdeveloper Should Read the HTTP Specification] - (http://blog.liip.ch/archive/2011/05/19/why-every-web-developer-should-read-the-http-specifications.html) - Knowhow
 
-**HTML5**
+**Mobile**
 
 * [12 Tips to Start With Mobile Development](http://www.sitepoint.com/iphone-development-12-tips/) - Knowhow
 
@@ -229,6 +230,10 @@ I tried them to categorize and give them a structure.
 **Websockets**
 
 * [Websocket Basics](http://www.html5rocks.com/en/tutorials/websockets/basics/) - Concept
+                                                                                
+**Browser**
+
+* [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
 
 
 
@@ -240,9 +245,6 @@ I tried them to categorize and give them a structure.
 ## Chrome
 * [Web Developer](http://chrispederick.com/work/web-developer/) - The Web Developer extension adds various web developer tools to a browser
 * [Ripple](https://chrome.google.com/webstore/detail/geelfhphabnejjhdalkjhgipohgpdnoc) - Emulator for different Environments like tablet and mobile
-
-### Articles
-* [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
 
 ## Firefox
 * [FireBug](http://getfirebug.com/) - The most popular and powerful web development tool
@@ -276,14 +278,22 @@ I tried them to categorize and give them a structure.
 
 * http://crisp.se/kanban/example - Kanban Cheat Sheet
 * http://www.creaffective.de/leistungen/seminare/mind-mapping/mind-mapping-online-training/kapitel1/ - Mindmap Course - german
-                                                                                                                      - 
-                                                                                                                      - 
-                                                                                                                      - 
-                                                                                                                      - 
-                                                                                                                      - 
-                                                                                                                      - 
-                                                                                                                      - 
-# <a name="security">Security</a>                                                                                                                      - # Security
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# <a name="security">Security</a>                                                                                                                      
 
 **OWASP**
 
@@ -295,24 +305,24 @@ I tried them to categorize and give them a structure.
 
 **Security General**
 
-* http://www.exploit-db.com - The Exploit Database - Exploits, Shellcode, Vulnerability reports, 0days, remote exploits, local exploits, security articles, tutorials and more.
+* [ExploitDB](http://www.exploit-db.com) - Vulnerability reports, security articles, tutorials and more.
 
 **XSS - Cross Site Scripting / Security Testing Websides**
 
-* http://www.muschikrieger.de/blog/2008/05/05/xss-eine-einfuehrung-in-cross-site-scripting/
-* http://it-republik.de/php/news/About-Security-Weihnachts-Special-Lesetips-zur-Web-Sicherheit-053131.html ;
-* http://toys.lerdorf.com/archives/52-SQLi-Detection-Duh-Moment.html
-* http://code.google.com/p/skipfish/
-* http://google-gruyere.appspot.com/part1
-* http://google-gruyere.appspot.com/
-* [w3af](http://sourceforge.net/projects/w3af/) - Web Application Attack and Audit Framework
-* https://github.com/yaph/domxssscanner - DOMXSS Scanner is an online tool to scan source code for DOM based XSS vulnerabilities
+* [Eine Einführung in XSS](http://www.muschikrieger.de/blog/2008/05/05/xss-eine-einfuehrung-in-cross-site-scripting/)
+* [About Security](http://it-republik.de/php/news/About-Security-Weihnachts-Special-Lesetips-zur-Web-Sicherheit-053131.html)
+* [SQLi Detection](http://toys.lerdorf.com/archives/52-SQLi-Detection-Duh-Moment.html)
+* [Skipfish](http://code.google.com/p/skipfish/)
+* [Google Gruyere](http://google-gruyere.appspot.com/part1)
+* [W3af](http://sourceforge.net/projects/w3af/) - Web Application Attack and Audit Framework
+* [DomXssScanner](https://github.com/yaph/domxssscanner) - DOMXSS Scanner is an online tool to scan source code for DOM based XSS vulnerabilities
 
 **PHP Security**
 
-* http://phpsec.org/projects/phpsecinfo/
-* http://www.limespace.de/2010/06/05/sicherheitslocher-in-php-scripten-finden/
-* http://sourceforge.net/projects/securityscanner/
+* [PHPSecInfo](http://phpsec.org/projects/phpsecinfo/)
+* [Sicherheitslöcher in PHP Scripten finden](http://www.limespace.de/2010/06/05/sicherheitslocher-in-php-scripten-finden/)
+* [SecurityScanner](http://sourceforge.net/projects/securityscanner/)
 
 **Virus / Scanning**
-* www.unmaskparasites.com - Online malwarecheck to a webside 
+
+* [UnmqwkParasites](www.unmaskparasites.com) - Online malwarecheck to a webside 
