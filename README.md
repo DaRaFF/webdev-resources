@@ -18,6 +18,7 @@ I tried them to categorize and give them a structure.
 #Index
 
 * [Software Analysis / Design](#softwaredesign)
+* [Clean Code](#cleancode)
 * [Standards / Specification](#standard)
 * [Great Resources](#greatresources)
 * [eBooks](#ebook)
@@ -38,7 +39,7 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="softwaredesign" >Software Analysis / Design</a>
+# <a name="softwaredesign">Software Analysis / Design</a>
 
 **PHP**
 
@@ -54,6 +55,14 @@ I tried them to categorize and give them a structure.
 
 * [Sourcemaking](http://sourcemaking.com) - Concept - Design Patterns and Refactoring - Collection and explanations of patterns, anti patterns, refactoring, uml                                                                          
 
+
+
+
+# <a name="cleancode">Clean Code</a>
+
+* [Front End Development Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/)
+* [Idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+* [Best Practises for Javascript Programming](http://bonsaiden.github.com/JavaScript-Garden/)                                                        
 
 
 
@@ -73,6 +82,10 @@ I tried them to categorize and give them a structure.
 **Mobile**
 
 * [MobileHTML5](http://mobilehtml5.org/) - Standard - Overview of mobile HTML compatibility
+
+**Javascript**
+
+* [Mozilla Javascript Reference](https://developer.mozilla.org/en/JavaScript)
 
 
 
