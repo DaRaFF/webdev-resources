@@ -8,6 +8,7 @@ In the long run I will convert all wiki links to code.
 * [Great Resources](#greatresources)
 * [eBooks](#ebook)
 * [Tools](#tool)
+* [Browser Plugins](#browser-plugin)
 * [Email Newsletter](#newsletter)
 * [Processes / Techniques](#process)
 
@@ -81,7 +82,30 @@ In the long run I will convert all wiki links to code.
 * [.htaccess tester](http://htaccess.madewithlove.be/)
 * [Screenr](http://www.screenr.com/) - make online screencasts for free
 * [Sound and Movie Loops](http://www.hark.com/)
-* [Templatr](http://templatr.cc/) - Create online a webside template                                                                                                    
+* [Templatr](http://templatr.cc/) - Create online a webside template    
+        
+# <a name="browser-plugin" >Browser Plugins</a>
+
+## Chrome
+* [Web Developer](http://chrispederick.com/work/web-developer/) - The Web Developer extension adds various web developer tools to a browser
+* jQueriify - zeigt an, ob jQuery auf der Seite verwendet wird / einbinden von jQuery in die Seite möglich
+* [Ripple](https://chrome.google.com/webstore/detail/geelfhphabnejjhdalkjhgipohgpdnoc) - Emulator for different Environments like tablet and mobile
+
+### Articles
+* [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
+
+## Firefox
+* [FireBug](http://getfirebug.com/) - The most popular and powerful web development tool
+* [FirePHP](http://www.firephp.org/) - FirePHP enables you to log to your Firebug Console using a simple PHP method call.
+* [Web Developer](http://chrispederick.com/work/web-developer/) - The Web Developer extension adds various web developer tools to a browser
+* [HttpFox](https://addons.mozilla.org/en-US/firefox/addon/httpfox/) - monitors incoming and outgoing HTTP traffic
+* [YSlow](http://developer.yahoo.com/yslow/) - YSlow analyzes web pages and suggests ways to improve their performance
+* [User Agent Switcher](http://chrispederick.com/work/user-agent-switcher/) - Switch the user agent of a browser
+* [PHP Developer Toolbar](https://addons.mozilla.org/de/firefox/addon/php-developer-toolbar/?src=api) - With this addon you can search functions quickly for the official function description directly into your browser
+* [Modify Headers](http://www.garethhunt.com/modifyheaders/) - Modify all possible header in a browser
+* [easy XDebug](https://addons.mozilla.org/en-US/firefox/addon/easy-xdebug/) - Plugin for Debugging with XDebug
+* [Unplug](https://addons.mozilla.org/en-US/firefox/addon/unplug/) - Download embedded web videos
+* [Video Download Helper](https://addons.mozilla.org/de/firefox/addon/video-downloadhelper/) - Download embedded web videos
 
 # <a name="newsletter" >Email Newsletter</a>
 
