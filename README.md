@@ -11,6 +11,9 @@ In the long run I will convert all wiki links to code.
 * [Great Resources](#greatresources)
 * [eBooks](#ebook)
 * [Tools](#tool)
+* [Frameworks](#framework)
+* [Boilerplate](#boilerplate)
+* [Articles](#article)
 * [Browser Plugins](#browser-plugin)
 * [Email Newsletter](#newsletter)
 * [Processes / Techniques](#process)
@@ -152,6 +155,72 @@ In the long run I will convert all wiki links to code.
 * [Sound and Movie Loops](http://www.hark.com/)
 * [Templatr](http://templatr.cc/) - Create online a webside template    
 
+
+
+
+
+
+# <a name="framework">Frameworks</a>
+
+**Symfony2**
+
+* Design - [Moving Away From the Base Controller](http://miller.limethinking.co.uk/2011/06/14/symfony2-moving-away-from-the-base-controller/)
+* Knowhow - [The Right Way to Start Symfony2 Learning](from http://www.craftitonline.com/) 
+* Knowhow - [Using the Symfony2 Console](http://blog.liip.ch/archive/2010/12/12/using-the-symfony2-console.html)
+
+**jQuery**
+
+* List - [The 50 most useful plugins in 2011](http://speckyboy.com/2011/12/07/the-50-most-useful-jquery-plugins-from-2011/)
+* Article - Performance - [jQuery Perfomance Improvement Tips](http://24ways.org/2011/your-jquery-now-with-less-suck)
+
+**YUI 3**
+* Comparison - [jsrosettastone](http://www.jsrosettastone.com/) - jquery vs yui3 - all important commands
+* Tutorial (Plugin) - [Basic YUI3 Plugin Tutorial](http://patcavit.com/2010/07/01/simple-yui3-plugin-tutorial/)
+* Presentation - [Building YUI3 Custom Modules](http://www.slideshare.net/caridy/building-yui-3-custom-modules) - slideshare presentation
+* API - [YUI3 API](http://yuilibrary.com/yui/docs/api/)
+
+
+
+
+
+
+
+
+# <a name="boilerplate">Boilerplate</a>
+
+**HTML5**
+
+* http://html5boilerplate.com/ -HTML5 Boilerplate
+* http://html5boilerplate.com/mobile/ - HTML5 Mobile Boilerplate
+* http://html5reset.org/ - HTML5 Reset
+
+
+
+
+
+# <a name="article">Articles</a>
+
+**HTML5**
+
+* [12 tips to start with mobile development](http://www.sitepoint.com/iphone-development-12-tips/)
+
+**Jasmine BDD**
+
+* [testing jquery plugins with jasmine](http://blog.davidpadbury.com/2010/10/11/bdd-testing-of-jquery-plugins-using-jasmine/)
+
+**jQuery**
+
+* http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/ - jquery plugin boilerplate
+* [super simple jquery plugin example](http://jsfiddle.net/davidpadbury/AUEQq/)
+* [building stateful jquery plugins (widgets)](http://blog.nemikor.com/2010/05/15/building-stateful-jquery-plugins/)
+
+**CSS3**
+
+* http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/
+
+**Websockets**
+
+* [websocket basics](http://www.html5rocks.com/en/tutorials/websockets/basics/)
 
 
 
