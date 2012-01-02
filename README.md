@@ -7,12 +7,20 @@ In the long run I will convert all wiki links to code.
 #Index
 
 * [Software Analysis / Design](#softwaredesign)
+* [Standards / Specification](#standard)
 * [Great Resources](#greatresources)
 * [eBooks](#ebook)
 * [Tools](#tool)
 * [Browser Plugins](#browser-plugin)
 * [Email Newsletter](#newsletter)
 * [Processes / Techniques](#process)
+
+
+
+
+
+
+
 
 
 # <a name="softwaredesign" >Software Analysis / Design</a>
@@ -31,10 +39,58 @@ In the long run I will convert all wiki links to code.
 
 * [Sourcemaking](http://sourcemaking.com) - Design Patterns and Refactoring - Collection and explanations of patterns, anti patterns, refactoring, uml                                                                          
 
+
+
+
+
+
+
+
+
+
+# <a name="standard" >Standards / Specifications</a>
+
+**HTML5**
+
+* [HTML5 specification](http://developers.whatwg.org/) - a readable HTML5 specification for web developers
+
+
+**Mobile**
+
+* http://mobilehtml5.org/ - Overview of mobile HTML compatibility
+
+**REST**
+
+* http://blog.liip.ch/archive/2011/05/19/why-every-web-developer-should-read-the-http-specifications.html
+* http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514
+
+**HTTP**
+
+* http://net.tutsplus.com/tutorials/other/http-headers-for-dummies/
+
+
+
+
+
+
+
+
+
+
 # <a name="greatresources" >Great Resources</a>
 * [makeawesomeweb](http://makeawesomeweb.com/) - link list with preview of the best web development tools
 * [JsGoodies](http://js.gd/) - daily links of interesting web tools
 * [move the web forward](http://movethewebforward.org/) - resources, tips for web development - initiative by paul irish, addy osmani and a lot of other respected people in the web developer scene
+
+
+
+
+
+
+
+
+
+
 
 # <a name="ebook" >eBooks</a>
 
@@ -50,6 +106,15 @@ In the long run I will convert all wiki links to code.
 * [Javascript Bibliography](http://oreilly.com/catalog/0636920021926) - free eBook by editors of Safary books online
 * [OOP mit Javascript](http://www.peterkropff.de/site/javascript/oop.htm) - free eBook by Peter Kropff- german
 * [HTML5 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) - free eBook by Stefan Münz - german
+
+
+
+
+
+
+
+
+
 
 # <a name="tool" >Tools</a>
 
@@ -86,7 +151,13 @@ In the long run I will convert all wiki links to code.
 * [Screenr](http://www.screenr.com/) - make online screencasts for free
 * [Sound and Movie Loops](http://www.hark.com/)
 * [Templatr](http://templatr.cc/) - Create online a webside template    
-        
+
+
+
+
+
+
+
 # <a name="browser-plugin" >Browser Plugins</a>
 
 ## Chrome
@@ -109,11 +180,20 @@ In the long run I will convert all wiki links to code.
 * [Unplug](https://addons.mozilla.org/en-US/firefox/addon/unplug/) - Download embedded web videos
 * [Video Download Helper](https://addons.mozilla.org/de/firefox/addon/video-downloadhelper/) - Download embedded web videos
 
+
+
+
+
+
 # <a name="newsletter" >Email Newsletter</a>
 
 * [javascriptweekly](http://javascriptweekly.com/)
 * [html5weekly](http://html5weekly.com/)
 * [web-design-weekly](http://web-design-weekly.com/)
+
+
+
+
 
 # <a name="process" >Processes / Techniques</a>
 
