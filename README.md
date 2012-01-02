@@ -28,7 +28,6 @@ I tried them to categorize and give them a structure.
 * [Articles](#article)
 * [Browser Plugins](#browser-plugin)
 * [Email Newsletter](#newsletter)
-* [Processes / Techniques](#process)
 * [Security](#security)
 
 
@@ -49,6 +48,8 @@ I tried them to categorize and give them a structure.
 **Javascript**
 
 * [Design Patterns in Javascript](https://github.com/tcorral/Design-Patterns-in-Javascript) - Concept - based on head first design patterns book
+* [Backbone.js Fundamentals](https://github.com/addyosmani/backbone-fundamentals#readme) - complete run down of backbone.js applications including modular design, AMD, how to solve routing problems
+* [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - free eBook by Addy Osmani
 * [Large Scale Javascript Application Architecture](http://speakerdeck.com/u/addyosmani/p/large-scale-javascript-application-architecture) - Concept - design & javascript patterns, jQuery, MVC, build large and scalable apps -  Slides by Addy Osmani
 
 **Software Patterns General**
@@ -62,7 +63,7 @@ I tried them to categorize and give them a structure.
 
 * [Front End Development Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/)
 * [Idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
-* [Javascript Garden](http://bonsaiden.github.com/JavaScript-Garden/)- Best Practises for Javascript Programming
+* [Javascript Garden](http://bonsaiden.github.com/JavaScript-Garden/) - Best Practises for Javascript Programming
 
 
 
@@ -113,20 +114,16 @@ I tried them to categorize and give them a structure.
 
 # <a name="ebook" >eBooks</a>
 
-* [Node Beginner](http://www.nodebeginner.org/) - node.js for beginner
-* [proGit](http://progit.org/book/) - proGit
+* [Node.js for Beginner](http://www.nodebeginner.org/) - node.js for beginner
+* [proGit](http://progit.org/book/)
 * [The Little Book on Coffescript](http://arcturo.com/library/coffeescript/)
 * [Regex eBook German](http://www.regenechsen.de/phpwcms/index.php?id=66,0,0,1,0,0)
-* [Backbone.js Fundamentals](https://github.com/addyosmani/backbone-fundamentals#readme) - complete rund down of backbone.js applications including modular design, AMD, how to solve routing problems
 * [Eloquentjavascript](http://eloquentjavascript.net/) - free eBook by Marijn Haverbeke
 * [DIVE INTO HTML5](http://diveintohtml5.org/) - free eBook by Mark Pilgrim
-* [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - free eBook by Addy Osmani
 * [Building iPhone Apps with HTML, CSS, and JavaScript](http://ofps.oreilly.com/titles/9780596805784/) - free eBook by Jonathan Stark
 * [Javascript Bibliography](http://oreilly.com/catalog/0636920021926) - free eBook by editors of Safary books online
 * [OOP mit Javascript](http://www.peterkropff.de/site/javascript/oop.htm) - free eBook by Peter Kropff- german
 * [HTML5 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) - free eBook by Stefan Münz - german
-
-
 
 
 
@@ -222,7 +219,7 @@ I tried them to categorize and give them a structure.
 **HTTP**
 
 * [HTTP Headers for Dummies](http://net.tutsplus.com/tutorials/other/http-headers-for-dummies/) - Knowhow
-* [Why Every Webdeveloper Should Read the HTTP Specification] - (http://blog.liip.ch/archive/2011/05/19/why-every-web-developer-should-read-the-http-specifications.html) - Knowhow
+* [Why Every Webdeveloper Should Read the HTTP Specification](http://blog.liip.ch/archive/2011/05/19/why-every-web-developer-should-read-the-http-specifications.html) - Knowhow
 
 **Mobile**
 
@@ -281,17 +278,7 @@ I tried them to categorize and give them a structure.
 
 * [javascriptweekly](http://javascriptweekly.com/)
 * [html5weekly](http://html5weekly.com/)
-* [web-design-weekly](http://web-design-weekly.com/)
-
-
-
-
-
-# <a name="process" >Processes / Techniques</a>
-
-* http://crisp.se/kanban/example - Kanban Cheat Sheet
-* http://www.creaffective.de/leistungen/seminare/mind-mapping/mind-mapping-online-training/kapitel1/ - Mindmap Course - german
-         
+* [web-design-weekly](http://web-design-weekly.com/)      
 
 
 
