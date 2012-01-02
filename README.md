@@ -7,6 +7,7 @@ In the long run I will convert all wiki links to code.
 * [Software Analysis / Design](#softwaredesign)
 * [Great Resources](#greatresources)
 * [eBooks](#ebook)
+* [Tools](#tool)
 * [Email Newsletter](#newsletter)
 * [Processes / Techniques](#process)
 
@@ -45,6 +46,42 @@ In the long run I will convert all wiki links to code.
 * [Javascript Bibliography](http://oreilly.com/catalog/0636920021926) - free eBook by editors of Safary books online
 * [OOP mit Javascript](http://www.peterkropff.de/site/javascript/oop.htm) - free eBook by Peter Kropff- german
 * [HTML5 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) - free eBook by Stefan Münz - german
+
+# <a name="tool" >Tools</a>
+
+**Software Analysis / Design**
+
+* [YUML](http://www.yuml.me/) - UML diagrams
+* [Gliffy](http://www.gliffy.com/) - UML diagrams
+* [Websequence Diagrams](http://www.websequencediagrams.com/) - Sequence diagrams
+
+**Editors**
+
+* [jsbin](http://jsbin.com/) - Javscript Editor in Browser
+* [jsfiddle](http://jsfiddle.net/) - Javascript Editor in Browser
+* [cloud9ide](http://cloud9ide.com/) - Collaborative Browser IDE for Development
+
+**CSS3**
+
+* [CSS3 Maker](http://www.css3maker.com) - CSS Maker is a free tool to experiment with CSS properties and values and generate a simple stylesheet for your site.
+* [CSS3 Generator](http://css3generator.com/)
+
+**Graphics / Design**
+
+* [Pixlr](http://pixlr.com) - Pixlr is a free online photo editor. Edit, adjust and filter your images.
+* [Pencil](http://pencil.evolus.vn) - Opensource Online GUI Prototyping Tool
+* [SpriteCow](http://www.spritecow.com/) - helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css
+* [ResponsivePx](http://responsivepx.com/) - Online tool which helps to find exact pixel sizes for responsive webdesign
+
+**Others**
+
+* [DevNullSmtp](http://www.aboutmyip.com/AboutMyXApp/DevNullSmtp.jsp) - Devnull SMTP server - a dummy email server for testing purposes
+* [Regexe](http://www.regexe.de/) - Regex tester
+* [Localtunnel](https://github.com/progrium/localtunnel) - share your localhost with the internet
+* [.htaccess tester](http://htaccess.madewithlove.be/)
+* [Screenr](http://www.screenr.com/) - make online screencasts for free
+* [Sound and Movie Loops](http://www.hark.com/)
+* [Templatr](http://templatr.cc/) - Create online a webside template                                                                                                    
 
 # <a name="newsletter" >Email Newsletter</a>
 
