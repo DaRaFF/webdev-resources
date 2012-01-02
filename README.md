@@ -1,6 +1,17 @@
-Please see the wiki - https://github.com/DaRaFF/theWebDevWiki/wiki.  :-)
+Welcome to my webdev brain!
 
-In the long run I will convert all wiki links to code.
+As webdeveloper I see daily tons of good resources and want to share them with the community.
+
+I tried them to categorize and give them a structure.
+
+**Type of Content**
+
+* Concept - General view on how to design and create things
+* Standard - A defined standard for a technologie
+* Knowhow - Specific Knowhow about a specific topic
+* Learning - Here you can learn something about general concepts or technologies
+* API - API Description of a technology / standard or whatever
+
 
         
 
@@ -31,17 +42,17 @@ In the long run I will convert all wiki links to code.
 
 **PHP**
 
-* [Practical PHP Testing Patterns](http://css.dzone.com/books/practical-php-testing-patterns) - by Giorgio Sironi
-* [Practical PHP Patterns](http://css.dzone.com/books/practical-php-patterns) - by Giorgio Sironi
+* [Practical PHP Testing Patterns](http://css.dzone.com/books/practical-php-testing-patterns) - Concept - by Giorgio Sironi
+* [Practical PHP Patterns](http://css.dzone.com/books/practical-php-patterns) - Concept - by Giorgio Sironi
 
 **Javascript**
 
-* [Design Patterns in Javascript](https://github.com/tcorral/Design-Patterns-in-Javascript) - based on head first design patterns book
-* [Large Scale Javascript Application Architecture](http://speakerdeck.com/u/addyosmani/p/large-scale-javascript-application-architecture) - design & javascript patterns, jQuery, MVC, build large and scalable apps -  Slides by Addy Osmani
+* [Design Patterns in Javascript](https://github.com/tcorral/Design-Patterns-in-Javascript) - Concept - based on head first design patterns book
+* [Large Scale Javascript Application Architecture](http://speakerdeck.com/u/addyosmani/p/large-scale-javascript-application-architecture) - Concept - design & javascript patterns, jQuery, MVC, build large and scalable apps -  Slides by Addy Osmani
 
 **Software Patterns General**
 
-* [Sourcemaking](http://sourcemaking.com) - Design Patterns and Refactoring - Collection and explanations of patterns, anti patterns, refactoring, uml                                                                          
+* [Sourcemaking](http://sourcemaking.com) - Concept - Design Patterns and Refactoring - Collection and explanations of patterns, anti patterns, refactoring, uml                                                                          
 
 
 
@@ -56,21 +67,12 @@ In the long run I will convert all wiki links to code.
 
 **HTML5**
 
-* [HTML5 specification](http://developers.whatwg.org/) - a readable HTML5 specification for web developers
+* [HTML5 specification](http://developers.whatwg.org/) - Standard - a readable HTML5 specification for web developers
 
 
 **Mobile**
 
-* http://mobilehtml5.org/ - Overview of mobile HTML compatibility
-
-**REST**
-
-* http://blog.liip.ch/archive/2011/05/19/why-every-web-developer-should-read-the-http-specifications.html
-* http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514
-
-**HTTP**
-
-* http://net.tutsplus.com/tutorials/other/http-headers-for-dummies/
+* [MobileHTML5](http://mobilehtml5.org/) - Standard - Overview of mobile HTML compatibility
 
 
 
@@ -166,20 +168,19 @@ In the long run I will convert all wiki links to code.
 
 **Symfony2**
 
-* Design - [Moving Away From the Base Controller](http://miller.limethinking.co.uk/2011/06/14/symfony2-moving-away-from-the-base-controller/)
-* Knowhow - [The Right Way to Start Symfony2 Learning](from http://www.craftitonline.com/) 
-* Knowhow - [Using the Symfony2 Console](http://blog.liip.ch/archive/2010/12/12/using-the-symfony2-console.html)
+* [Moving Away From the Base Controller](http://miller.limethinking.co.uk/2011/06/14/symfony2-moving-away-from-the-base-controller/) - Design
 
 **jQuery**
 
-* List - [The 50 most useful plugins in 2011](http://speckyboy.com/2011/12/07/the-50-most-useful-jquery-plugins-from-2011/)
-* Article - Performance - [jQuery Perfomance Improvement Tips](http://24ways.org/2011/your-jquery-now-with-less-suck)
+* [The 50 most useful plugins in 2011](http://speckyboy.com/2011/12/07/the-50-most-useful-jquery-plugins-from-2011/)
+* [jQuery Perfomance Improvement Tips](http://24ways.org/2011/your-jquery-now-with-less-suck) - Knowhow
+* [Appendto](http://learn.appendto.com/) - Learning - jQuery and Javascript screencasts to learn jQuery and Javascript
 
 **YUI 3**
-* Comparison - [jsrosettastone](http://www.jsrosettastone.com/) - jquery vs yui3 - all important commands
-* Tutorial (Plugin) - [Basic YUI3 Plugin Tutorial](http://patcavit.com/2010/07/01/simple-yui3-plugin-tutorial/)
-* Presentation - [Building YUI3 Custom Modules](http://www.slideshare.net/caridy/building-yui-3-custom-modules) - slideshare presentation
-* API - [YUI3 API](http://yuilibrary.com/yui/docs/api/)
+* [JsRosettaStone](http://www.jsrosettastone.com/) - jquery vs yui3 comparison - all important commands
+* [Basic YUI3 Plugin Tutorial](http://patcavit.com/2010/07/01/simple-yui3-plugin-tutorial/) - Knowhow
+* [Building YUI3 Custom Modules](http://www.slideshare.net/caridy/building-yui-3-custom-modules) - Presentation
+* [YUI3 API](http://yuilibrary.com/yui/docs/api/) - API
 
 
 
@@ -190,39 +191,44 @@ In the long run I will convert all wiki links to code.
 
 # <a name="boilerplate">Boilerplate</a>
 
-**HTML5**
-
-* http://html5boilerplate.com/ -HTML5 Boilerplate
-* http://html5boilerplate.com/mobile/ - HTML5 Mobile Boilerplate
-* http://html5reset.org/ - HTML5 Reset
-
+* [HTML5 Boilerplate](http://html5boilerplate.com/)
+* [HTML5 Mobile Boilerplate](http://html5boilerplate.com/mobile/)
+* [HTML5 Reset](http://html5reset.org/)
+* [jQuery Plugin Boilerplate](http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/)
 
 
 
 
 # <a name="article">Articles</a>
 
+**REST**
+
+* [Designing HTTP Interfaces and Restful Webservices](http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514) - Concept
+
+**HTTP**
+
+* [HTTP Headers for Dummies](http://net.tutsplus.com/tutorials/other/http-headers-for-dummies/) - Knowhow
+* [Why Every Webdeveloper Should Read the HTTP Specification] - (http://blog.liip.ch/archive/2011/05/19/why-every-web-developer-should-read-the-http-specifications.html) - Knowhow
+
 **HTML5**
 
-* [12 tips to start with mobile development](http://www.sitepoint.com/iphone-development-12-tips/)
+* [12 Tips to Start With Mobile Development](http://www.sitepoint.com/iphone-development-12-tips/) - Knowhow
 
 **Jasmine BDD**
 
-* [testing jquery plugins with jasmine](http://blog.davidpadbury.com/2010/10/11/bdd-testing-of-jquery-plugins-using-jasmine/)
+* [Testing jQery Plugins with Jasmine](http://blog.davidpadbury.com/2010/10/11/bdd-testing-of-jquery-plugins-using-jasmine/) - Knowhow
 
 **jQuery**
 
-* http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/ - jquery plugin boilerplate
-* [super simple jquery plugin example](http://jsfiddle.net/davidpadbury/AUEQq/)
-* [building stateful jquery plugins (widgets)](http://blog.nemikor.com/2010/05/15/building-stateful-jquery-plugins/)
+* [Building Stateful jQuery Plugins (Widgets)](http://blog.nemikor.com/2010/05/15/building-stateful-jquery-plugins/) - Knowhow
 
 **CSS3**
 
-* http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/
+* [The 30 CSS Selectors You Must Memorize](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/) - Knowhow
 
 **Websockets**
 
-* [websocket basics](http://www.html5rocks.com/en/tutorials/websockets/basics/)
+* [Websocket Basics](http://www.html5rocks.com/en/tutorials/websockets/basics/) - Concept
 
 
 
