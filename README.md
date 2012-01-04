@@ -242,7 +242,11 @@ I tried them to categorize and give them a structure.
 **Websockets**
 
 * [Websocket Basics](http://www.html5rocks.com/en/tutorials/websockets/basics/) - Concept
-                                                                                
+
+**NodeJS**
+
+* [An advanced Example of NodeJS, Express.js (mvc), EJS (templating) and socket.io (sockets) which really works](http://borntoprogram.blogspot.com/2011/07/reaktiv-im-web-mit-nodejsexpressjssocke.html) - Knowhow
+
 **Browser**
 
 * [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
