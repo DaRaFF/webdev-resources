@@ -245,7 +245,7 @@ I tried them to categorize and give them a structure.
 
 **NodeJS**
 
-* [An advanced Example of NodeJS, Express.js (mvc), EJS (templating) and socket.io (sockets) which really works](http://borntoprogram.blogspot.com/2011/07/reaktiv-im-web-mit-nodejsexpressjssocke.html) - Knowhow
+* [An advanced Example of NodeJS, Express.js (mvc), EJS (templating) and socket.io (sockets) which really works](http://borntoprogram.blogspot.com/2011/07/reaktiv-im-web-mit-nodejsexpressjssocke.html) - Knowhow - German
 
 **Browser**
 
