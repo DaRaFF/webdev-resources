@@ -53,7 +53,8 @@ I tried them to categorize and give them a structure.
 * [Backbone.js Fundamentals](https://github.com/addyosmani/backbone-fundamentals#readme) - complete run down of backbone.js applications including modular design, AMD, how to solve routing problems
 * [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - free eBook by Addy Osmani
 * [Large Scale Javascript Application Architecture](http://speakerdeck.com/u/addyosmani/p/large-scale-javascript-application-architecture) - Concept - design & javascript patterns, jQuery, MVC, build large and scalable apps -  Slides by Addy Osmani
-* [Javascript design Patterns](http://www.joezimjs.com/javascript/javascript-design-patterns-singleton/) - by joe zimjs
+* [Javascript Design Patterns](http://www.joezimjs.com/javascript/javascript-design-patterns-singleton/) - by joe zimjs
+* [Javascript Pattern Collection](http://shichuan.github.com/javascript-patterns/) - by shichuan
 
 **Software Patterns General**
 
