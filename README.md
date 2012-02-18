@@ -226,6 +226,7 @@ I tried them to categorize and give them a structure.
 **REST**
 
 * [Designing HTTP Interfaces and Restful Webservices](http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514) - Concept
+* [REST Testing with Curl](http://blogs.plexibus.com/2009/01/15/rest-esting-with-curl/)
 
 **HTTP**
 
