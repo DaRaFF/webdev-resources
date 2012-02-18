@@ -17,7 +17,7 @@ I tried them to categorize and give them a structure.
 
 #Index
 
-* [Software Analysis / Design](#softwaredesign)
+* [Software Design](#softwaredesign)
 * [Clean Code](#cleancode)
 * [Standards / Specification](#standard)
 * [Great Resources](#greatresources)
@@ -38,12 +38,13 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="softwaredesign">Software Analysis / Design</a>
+# <a name="softwaredesign">Software Design</a>
 
 **PHP**
 
 * [Practical PHP Testing Patterns](http://css.dzone.com/books/practical-php-testing-patterns) - Concept - by Giorgio Sironi
 * [Practical PHP Patterns](http://css.dzone.com/books/practical-php-patterns) - Concept - by Giorgio Sironi
+* [Practical PHP Refactoring](http://css.dzone.com/category/tags/practical-php-refactoring) - Concept - by Giorgio Sironi
 
 **Javascript**
 
