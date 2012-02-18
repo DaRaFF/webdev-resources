@@ -55,6 +55,7 @@ I tried them to categorize and give them a structure.
 * [Large Scale Javascript Application Architecture](http://speakerdeck.com/u/addyosmani/p/large-scale-javascript-application-architecture) - Concept - design & javascript patterns, jQuery, MVC, build large and scalable apps -  Slides by Addy Osmani
 * [Javascript Design Patterns](http://www.joezimjs.com/javascript/javascript-design-patterns-singleton/) - by joe zimjs
 * [Javascript Pattern Collection](http://shichuan.github.com/javascript-patterns/) - by shichuan
+* [SOLID Javascript](http://freshbrewedcode.com/derekgreer/2011/12/08/solid-javascript-single-responsibility-principle/) - by Derek Greer
 
 **Software Patterns General**
 
