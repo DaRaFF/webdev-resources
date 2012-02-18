@@ -67,6 +67,7 @@ I tried them to categorize and give them a structure.
 * [Idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [Javascript Garden](http://bonsaiden.github.com/JavaScript-Garden/) - Best Practises for Javascript Programming
 * [HTML5 Semantics and Good Coding Practices](http://www.aniketpant.com/article/html5-semantics-and-good-coding-practices)
+* [Code Style Guide ](https://github.com/ginatrapani/ThinkUp/wiki/Code-Style-Guide) - ThinkUp's Code Style Guides for HTML / CSS / Javascript / PHP / Smarty
 
 
 
