@@ -188,6 +188,7 @@ I tried them to categorize and give them a structure.
 
 * [jQuery Perfomance Improvement Tips](http://24ways.org/2011/your-jquery-now-with-less-suck) - Knowhow
 * [jQuery Essentials](http://speakerdeck.com/u/addyosmani/p/the-jquery-essentials-1) - Learning
+* [Learn jQuery in 30 Days](http://learnjquery.tutsplus.com/) - Learning
 * [Appendto](http://learn.appendto.com/) - Learning - jQuery and Javascript screencasts to learn jQuery and Javascript
 * [The 50 most useful plugins in 2011](http://speckyboy.com/2011/12/07/the-50-most-useful-jquery-plugins-from-2011/)
 
