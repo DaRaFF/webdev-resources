@@ -272,6 +272,7 @@ I tried them to categorize and give them a structure.
 * [Web Developer](http://chrispederick.com/work/web-developer/) - The Web Developer extension adds various web developer tools to a browser
 * [Ripple](https://chrome.google.com/webstore/detail/geelfhphabnejjhdalkjhgipohgpdnoc) - Emulator for different Environments like tablet and mobile
 * [Edit this Cookie](https://chrome.google.com/webstore/detail/fngmhnnpilhplaeedifhccceomclgfbg) - Cookie modifier for chrome
+* [JSON View](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc) - Get beautified JSON Responses
 
 ## Firefox
 * [FireBug](http://getfirebug.com/) - The most popular and powerful web development tool
