@@ -296,7 +296,8 @@ I tried them to categorize and give them a structure.
 
 * [javascriptweekly](http://javascriptweekly.com/)
 * [html5weekly](http://html5weekly.com/)
-* [web-design-weekly](http://web-design-weekly.com/)      
+* [web-design-weekly](http://web-design-weekly.com/)
+* [statuscode](http://statuscode.org/) - weekly email for programmers
 
 
 
