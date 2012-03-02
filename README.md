@@ -37,6 +37,7 @@ I tried them to categorize and give them a structure.
 * [Practical PHP Patterns](http://css.dzone.com/books/practical-php-patterns) - Concept - by Giorgio Sironi
 * [Practical PHP Refactoring](http://css.dzone.com/category/tags/practical-php-refactoring) - Concept - by Giorgio Sironi
 * [Create your own Framework on top of the Symfony2 Components](http://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-symfony2-components-part-1) - Learning - by Fabien Potencier
+* [Chaplin](https://github.com/moviepilot/chaplin) - Concept - A Sample Application Architecture Using Backbone.js
 
 ###Javascript
 * [Design Patterns in Javascript](https://github.com/tcorral/Design-Patterns-in-Javascript) - Concept - based on head first design patterns book
