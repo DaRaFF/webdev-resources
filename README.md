@@ -1,4 +1,4 @@
-Welcome to my webdev brain!
+# Webdev Brain
 
 As webdeveloper I see daily tons of good resources and want to share them with the community.
 
