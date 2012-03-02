@@ -143,6 +143,7 @@ I tried them to categorize and give them a structure.
 
 ###Symfony2
 * [Moving Away From the Base Controller](http://miller.limethinking.co.uk/2011/06/14/symfony2-moving-away-from-the-base-controller/) - Design
+* [Deserializing Request Content Right into Controller Arguments](http://php-and-symfony.matthiasnoback.nl/2012/02/symfony2-deserializing-request-content-right-into-controller-arguments/)
 
 ###jQuery
 * [jQuery Perfomance Improvement Tips](http://24ways.org/2011/your-jquery-now-with-less-suck) - Knowhow
