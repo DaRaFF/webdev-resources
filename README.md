@@ -1,10 +1,9 @@
 # Webdev Brain
-
 As webdeveloper I see daily tons of good resources and want to share them with the community.
 
 I tried them to categorize and give them a structure.
 
-**Type of Content**
+###Type of Content
 
 * Concept - General view on how to design and create things
 * Standard - A defined standard for a technologie
@@ -16,7 +15,6 @@ I tried them to categorize and give them a structure.
         
 
 ##Index
-
 * [Software Design](#softwaredesign)
 * [Clean Code](#cleancode)
 * [Standards / Specification](#standard)
@@ -33,22 +31,14 @@ I tried them to categorize and give them a structure.
 
 
 
-
-
-
-
-
 ##<a name="softwaredesign">Software Design</a>
-
-**PHP**
-
+###PHP
 * [Practical PHP Testing Patterns](http://css.dzone.com/books/practical-php-testing-patterns) - Concept - by Giorgio Sironi
 * [Practical PHP Patterns](http://css.dzone.com/books/practical-php-patterns) - Concept - by Giorgio Sironi
 * [Practical PHP Refactoring](http://css.dzone.com/category/tags/practical-php-refactoring) - Concept - by Giorgio Sironi
 * [Create your own Framework on top of the Symfony2 Components](http://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-symfony2-components-part-1) - Learning - by Fabien Potencier
 
-**Javascript**
-
+###Javascript
 * [Design Patterns in Javascript](https://github.com/tcorral/Design-Patterns-in-Javascript) - Concept - based on head first design patterns book
 * [Backbone.js Fundamentals](https://github.com/addyosmani/backbone-fundamentals#readme) - complete run down of backbone.js applications including modular design, AMD, how to solve routing problems
 * [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - free eBook by Addy Osmani
@@ -57,15 +47,13 @@ I tried them to categorize and give them a structure.
 * [Javascript Pattern Collection](http://shichuan.github.com/javascript-patterns/) - by shichuan
 * [SOLID Javascript](http://freshbrewedcode.com/derekgreer/2011/12/08/solid-javascript-single-responsibility-principle/) - by Derek Greer
 
-**Software Patterns General**
-
+###Software Patterns General
 * [Sourcemaking](http://sourcemaking.com) - Concept - Design Patterns and Refactoring - Collection and explanations of patterns, anti patterns, refactoring, uml                                                                          
 
 
 
 
 ##<a name="cleancode">Clean Code</a>
-
 * [Front End Development Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/)
 * [Idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [Javascript Garden](http://bonsaiden.github.com/JavaScript-Garden/) - Best Practises for Javascript Programming
@@ -75,31 +63,15 @@ I tried them to categorize and give them a structure.
 
 
 
-
-
-
-
-
 ##<a name="standard" >Standards / Specifications</a>
-
-**HTML5**
-
+###HTML5
 * [HTML5 specification](http://developers.whatwg.org/) - Standard - a readable HTML5 specification for web developers
 
-
-**Mobile**
-
+###Mobile
 * [MobileHTML5](http://mobilehtml5.org/) - Standard - Overview of mobile HTML compatibility
 
-**Javascript**
-
+###Javascript
 * [Mozilla Javascript Reference](https://developer.mozilla.org/en/JavaScript)
-
-
-
-
-
-
 
 
 
@@ -112,15 +84,7 @@ I tried them to categorize and give them a structure.
 
 
 
-
-
-
-
-
-
-
 ##<a name="ebook" >eBooks</a>
-
 * [Node.js for Beginner](http://www.nodebeginner.org/) - node.js for beginner
 * [proGit](http://progit.org/book/)
 * [The Little Book on Coffescript](http://arcturo.com/library/coffeescript/)
@@ -135,39 +99,29 @@ I tried them to categorize and give them a structure.
 
 
 
-
-
-
-
-
 ##<a name="tool" >Tools</a>
 
-**Software Analysis / Design**
-
+###Software Analysis / Design
 * [YUML](http://www.yuml.me/) - UML diagrams
 * [Gliffy](http://www.gliffy.com/) - UML diagrams
 * [Websequence Diagrams](http://www.websequencediagrams.com/) - Sequence diagrams
 
-**Editors**
-
+###Editors
 * [jsbin](http://jsbin.com/) - Javscript Editor in Browser
 * [jsfiddle](http://jsfiddle.net/) - Javascript Editor in Browser
 * [cloud9ide](http://cloud9ide.com/) - Collaborative Browser IDE for Development
 
-**CSS3**
-
+###CSS3
 * [CSS3 Maker](http://www.css3maker.com) - CSS Maker is a free tool to experiment with CSS properties and values and generate a simple stylesheet for your site.
 * [CSS3 Generator](http://css3generator.com/)
 
-**Graphics / Design**
-
+###Graphics / Design
 * [Pixlr](http://pixlr.com) - Pixlr is a free online photo editor. Edit, adjust and filter your images.
 * [Pencil](http://pencil.evolus.vn) - Opensource Online GUI Prototyping Tool
 * [SpriteCow](http://www.spritecow.com/) - helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css
 * [ResponsivePx](http://responsivepx.com/) - Online tool which helps to find exact pixel sizes for responsive webdesign
 
-**Others**
-
+###Others
 * [DevNullSmtp](http://www.aboutmyip.com/AboutMyXApp/DevNullSmtp.jsp) - Devnull SMTP server - a dummy email server for testing purposes
 * [Regexe](http://www.regexe.de/) - Regex tester
 * [Localtunnel](https://github.com/progrium/localtunnel) - share your localhost with the internet
@@ -181,24 +135,19 @@ I tried them to categorize and give them a structure.
 
 
 
-
-
 ##<a name="framework">Frameworks</a>
 
-**Symfony2**
-
+###Symfony2
 * [Moving Away From the Base Controller](http://miller.limethinking.co.uk/2011/06/14/symfony2-moving-away-from-the-base-controller/) - Design
 
-**jQuery**
-
+###jQuery
 * [jQuery Perfomance Improvement Tips](http://24ways.org/2011/your-jquery-now-with-less-suck) - Knowhow
 * [jQuery Essentials](http://speakerdeck.com/u/addyosmani/p/the-jquery-essentials-1) - Learning
 * [Learn jQuery in 30 Days](http://learnjquery.tutsplus.com/) - Learning
 * [Appendto](http://learn.appendto.com/) - Learning - jQuery and Javascript screencasts to learn jQuery and Javascript
 * [The 50 most useful plugins in 2011](http://speckyboy.com/2011/12/07/the-50-most-useful-jquery-plugins-from-2011/)
 
-**YUI 3**
-
+###YUI 3
 * [JsRosettaStone](http://www.jsrosettastone.com/) - jquery vs yui3 comparison - all important commands
 * [Basic YUI3 Plugin Tutorial](http://patcavit.com/2010/07/01/simple-yui3-plugin-tutorial/) - Knowhow
 * [Building YUI3 Custom Modules](http://www.slideshare.net/caridy/building-yui-3-custom-modules) - Presentation
@@ -207,12 +156,7 @@ I tried them to categorize and give them a structure.
 
 
 
-
-
-
-
 ##<a name="boilerplate">Boilerplate</a>
-
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [HTML5 Mobile Boilerplate](http://html5boilerplate.com/mobile/)
 * [HTML5 Reset](http://html5reset.org/)
@@ -223,45 +167,34 @@ I tried them to categorize and give them a structure.
 
 ##<a name="article">Articles</a>
 
-**REST**
-
+####REST
 * [Designing HTTP Interfaces and Restful Webservices](http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514) - Concept
 * [REST Testing with Curl](http://blogs.plexibus.com/2009/01/15/rest-esting-with-curl/)
 
-**HTTP**
-
+###HTTP
 * [HTTP Headers for Dummies](http://net.tutsplus.com/tutorials/other/http-headers-for-dummies/) - Knowhow
 * [Why Every Webdeveloper Should Read the HTTP Specification](http://blog.liip.ch/archive/2011/05/19/why-every-web-developer-should-read-the-http-specifications.html) - Knowhow
 
-**Mobile**
-
+###Mobile
 * [12 Tips to Start With Mobile Development](http://www.sitepoint.com/iphone-development-12-tips/) - Knowhow
 
-**Jasmine BDD**
-
+###Jasmine BDD
 * [Testing jQery Plugins with Jasmine](http://blog.davidpadbury.com/2010/10/11/bdd-testing-of-jquery-plugins-using-jasmine/) - Knowhow
 
-**jQuery**
-
+###jQuery
 * [Building Stateful jQuery Plugins (Widgets)](http://blog.nemikor.com/2010/05/15/building-stateful-jquery-plugins/) - Knowhow
 
-**CSS3**
-
+###CSS3
 * [The 30 CSS Selectors You Must Memorize](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/) - Knowhow
 
-**Websockets**
-
+###Websockets
 * [Websocket Basics](http://www.html5rocks.com/en/tutorials/websockets/basics/) - Concept
 
-**NodeJS**
-
+###NodeJS
 * [An advanced Example of NodeJS, Express.js (mvc), EJS (templating) and socket.io (sockets) which really works](http://borntoprogram.blogspot.com/2011/07/reaktiv-im-web-mit-nodejsexpressjssocke.html) - Knowhow - German
 
-**Browser**
-
+###Browser
 * [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
-
-
 
 
 
@@ -289,11 +222,7 @@ I tried them to categorize and give them a structure.
 
 
 
-
-
-
 ##<a name="newsletter" >Email Newsletter</a>
-
 * [javascriptweekly](http://javascriptweekly.com/)
 * [html5weekly](http://html5weekly.com/)
 * [web-design-weekly](http://web-design-weekly.com/)
@@ -302,32 +231,18 @@ I tried them to categorize and give them a structure.
 
 
 
-
-
-
-
-
-
-
-
-
-
 # <a name="security">Security</a>                                                                                                                      
 
-**OWASP**
-
+###OWASP
 * [Open Web Application Security Project](https://www.owasp.org)
 * [OWASP Top 10 Tools and Tactics](http://resources.infosecinstitute.com/owasp-top-10-tools-and-tactics/)
 * [Webscarab](https://www.owasp.org/index.php/Category:OWASP_WebScarab_Project) - framework for analysing applications that communicate using the HTTP and HTTPS protocols
 * [Webgoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project) - is a deliberately insecure EE web application maintained by OWASP designed to teach web application security lessons
 
-
-**Security General**
-
+###Security General
 * [ExploitDB](http://www.exploit-db.com) - Vulnerability reports, security articles, tutorials and more.
 
-**XSS - Cross Site Scripting / Security Testing Websides**
-
+###XSS - Cross Site Scripting / Security Testing Websides
 * [Eine Einführung in XSS](http://www.muschikrieger.de/blog/2008/05/05/xss-eine-einfuehrung-in-cross-site-scripting/)
 * [About Security](http://it-republik.de/php/news/About-Security-Weihnachts-Special-Lesetips-zur-Web-Sicherheit-053131.html)
 * [SQLi Detection](http://toys.lerdorf.com/archives/52-SQLi-Detection-Duh-Moment.html)
@@ -336,12 +251,10 @@ I tried them to categorize and give them a structure.
 * [W3af](http://sourceforge.net/projects/w3af/) - Web Application Attack and Audit Framework
 * [DomXssScanner](https://github.com/yaph/domxssscanner) - DOMXSS Scanner is an online tool to scan source code for DOM based XSS vulnerabilities
 
-**PHP Security**
-
+###PHP Security
 * [PHPSecInfo](http://phpsec.org/projects/phpsecinfo/)
 * [Sicherheitslöcher in PHP Scripten finden](http://www.limespace.de/2010/06/05/sicherheitslocher-in-php-scripten-finden/)
 * [SecurityScanner](http://sourceforge.net/projects/securityscanner/)
 
-**Virus / Scanning**
-
+###Virus / Scanning
 * [UnmqwkParasites](www.unmaskparasites.com) - Online malwarecheck to a webside 
