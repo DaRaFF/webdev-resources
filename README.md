@@ -15,7 +15,7 @@ I tried them to categorize and give them a structure.
 
         
 
-#Index
+##Index
 
 * [Software Design](#softwaredesign)
 * [Clean Code](#cleancode)
@@ -38,7 +38,7 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="softwaredesign">Software Design</a>
+##<a name="softwaredesign">Software Design</a>
 
 **PHP**
 
@@ -64,7 +64,7 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="cleancode">Clean Code</a>
+##<a name="cleancode">Clean Code</a>
 
 * [Front End Development Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/)
 * [Idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
@@ -80,7 +80,7 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="standard" >Standards / Specifications</a>
+##<a name="standard" >Standards / Specifications</a>
 
 **HTML5**
 
@@ -104,7 +104,7 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="greatresources" >Great Resources</a>
+##<a name="greatresources" >Great Resources</a>
 * [makeawesomeweb](http://makeawesomeweb.com/) - link list with preview of the best web development tools
 * [JsGoodies](http://js.gd/) - daily links of interesting web tools
 * [move the web forward](http://movethewebforward.org/) - resources, tips for web development - initiative by paul irish, addy osmani and a lot of other respected people in the web developer scene
@@ -119,7 +119,7 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="ebook" >eBooks</a>
+##<a name="ebook" >eBooks</a>
 
 * [Node.js for Beginner](http://www.nodebeginner.org/) - node.js for beginner
 * [proGit](http://progit.org/book/)
@@ -140,7 +140,7 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="tool" >Tools</a>
+##<a name="tool" >Tools</a>
 
 **Software Analysis / Design**
 
@@ -183,7 +183,7 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="framework">Frameworks</a>
+##<a name="framework">Frameworks</a>
 
 **Symfony2**
 
@@ -211,7 +211,7 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="boilerplate">Boilerplate</a>
+##<a name="boilerplate">Boilerplate</a>
 
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [HTML5 Mobile Boilerplate](http://html5boilerplate.com/mobile/)
@@ -221,7 +221,7 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="article">Articles</a>
+##<a name="article">Articles</a>
 
 **REST**
 
@@ -266,15 +266,15 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="browser-plugin" >Browser Plugins</a>
+##<a name="browser-plugin" >Browser Plugins</a>
 
-## Chrome
+###Chrome
 * [Web Developer](http://chrispederick.com/work/web-developer/) - The Web Developer extension adds various web developer tools to a browser
 * [Ripple](https://chrome.google.com/webstore/detail/geelfhphabnejjhdalkjhgipohgpdnoc) - Emulator for different Environments like tablet and mobile
 * [Edit this Cookie](https://chrome.google.com/webstore/detail/fngmhnnpilhplaeedifhccceomclgfbg) - Cookie modifier for chrome
 * [JSON View](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc) - Get beautified JSON Responses
 
-## Firefox
+###Firefox
 * [FireBug](http://getfirebug.com/) - The most popular and powerful web development tool
 * [FirePHP](http://www.firephp.org/) - FirePHP enables you to log to your Firebug Console using a simple PHP method call.
 * [Web Developer](http://chrispederick.com/work/web-developer/) - The Web Developer extension adds various web developer tools to a browser
@@ -292,7 +292,7 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="newsletter" >Email Newsletter</a>
+##<a name="newsletter" >Email Newsletter</a>
 
 * [javascriptweekly](http://javascriptweekly.com/)
 * [html5weekly](http://html5weekly.com/)
