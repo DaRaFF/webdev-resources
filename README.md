@@ -170,8 +170,7 @@ I tried them to categorize and give them a structure.
 
 
 
-##<a name="article">Articles</a>
-
+##<a name="article">Articles / Video</a>
 ####REST
 * [Designing HTTP Interfaces and Restful Webservices](http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514) - Concept
 * [REST Testing with Curl](http://blogs.plexibus.com/2009/01/15/rest-esting-with-curl/)
@@ -201,11 +200,13 @@ I tried them to categorize and give them a structure.
 ###Browser
 * [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
 
+###Video
+* [Bret Victor - Inventing on Principle](http://vimeo.com/36579366)
+
 
 
 
 ##<a name="browser-plugin" >Browser Plugins</a>
-
 ###Chrome
 * [Web Developer](http://chrispederick.com/work/web-developer/) - The Web Developer extension adds various web developer tools to a browser
 * [Ripple](https://chrome.google.com/webstore/detail/geelfhphabnejjhdalkjhgipohgpdnoc) - Emulator for different Environments like tablet and mobile
