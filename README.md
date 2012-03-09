@@ -202,6 +202,11 @@ I tried them to categorize and give them a structure.
 
 ###Video
 * [Bret Victor - Inventing on Principle](http://vimeo.com/36579366)
+* [Fabien Potencier - Look Beyond PHP](http://www.slideshare.net/fabpot/look-beyond-php)
+* [Your Code Sucks - Letz fix it](http://www.slideshare.net/rdohms/bettercode-phpbenelux212alternate)
+
+###Music
+* [Multiplayer Online Musice Instrument](http://labs.dinahmoe.com/plink/)
 
 
 
