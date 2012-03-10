@@ -99,6 +99,7 @@ I tried them to categorize and give them a structure.
 * [OOP mit Javascript](http://www.peterkropff.de/site/javascript/oop.htm) - free eBook by Peter Kropff- german
 * [HTML5 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) - free eBook by Stefan Münz - german
 * [leanpub](http://leanpub.com/) - create you own eBook
+* [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/) - 54 Lessons with exercises about Regex
 
 
 
