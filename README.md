@@ -138,6 +138,7 @@ I tried them to categorize and give them a structure.
 * [Templatr](http://templatr.cc/) - Create online a webside template
 * [TuttiJs](http://tuttijs.com/) - Test Javascript on different browsers simultaneously   
 * [h5bp-docs](https://github.com/mklabs/h5bp-docs) - website generator out of markdown files
+* [real time web technologie guide](http://www.leggetter.co.uk/real-time-web-technologies-guide) - list of tools for real time communication
 
 
 
