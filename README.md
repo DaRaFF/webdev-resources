@@ -74,6 +74,9 @@ I tried them to categorize and give them a structure.
 ###Javascript
 * [Mozilla Javascript Reference](https://developer.mozilla.org/en/JavaScript)
 
+###PHP
+* [PHP Standards](https://github.com/pmjones/fig-standards) - Description of PHP Standards, well known as PSR-0, PSR-1, ...
+
 
 
 
