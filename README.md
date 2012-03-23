@@ -112,6 +112,7 @@ I tried them to categorize and give them a structure.
 ###Symfony2
 * [Blog by Matthias Noback](http://php-and-symfony.matthiasnoback.nl/)
 * [Blog by Richard Miller](http://miller.limethinking.co.uk/)
+* [Blog by Lukas Smith](http://pooteeweet.org)
 
 
 
