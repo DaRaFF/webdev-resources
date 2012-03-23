@@ -20,6 +20,7 @@ I tried them to categorize and give them a structure.
 * [Standards / Specification](#standard)
 * [Great Resources](#greatresources)
 * [eBooks](#ebook)
+* [Blogs](#blog)
 * [Tools](#tool)
 * [Frameworks](#framework)
 * [Boilerplate](#boilerplate)
@@ -103,6 +104,15 @@ I tried them to categorize and give them a structure.
 * [HTML5 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) - free eBook by Stefan Münz - german
 * [leanpub](http://leanpub.com/) - create you own eBook
 * [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/) - 54 Lessons with exercises about Regex
+
+
+
+
+##<a name="blog" >Blogs</a>
+###Symfony2
+* [Blog by Matthias Noback](http://php-and-symfony.matthiasnoback.nl/)
+* [Blog by Richard Miller](http://miller.limethinking.co.uk/)
+
 
 
 
