@@ -66,15 +66,6 @@ I tried them to categorize and give them a structure.
 
 
 ##<a name="standard" >Standards / Specifications</a>
-###HTML5
-* [HTML5 specification](http://developers.whatwg.org/) - Standard - a readable HTML5 specification for web developers
-
-###Mobile
-* [MobileHTML5](http://mobilehtml5.org/) - Standard - Overview of mobile HTML compatibility
-
-###Javascript
-* [Mozilla Javascript Reference](https://developer.mozilla.org/en/JavaScript)
-
 ###PHP
 * [PHP Standards](https://github.com/pmjones/fig-standards) - Description of PHP Standards, well known as PSR-0, PSR-1, ...
 
