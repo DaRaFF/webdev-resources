@@ -126,6 +126,7 @@ I tried them to categorize and give them a structure.
 ###CSS3
 * [CSS3 Maker](http://www.css3maker.com) - CSS Maker is a free tool to experiment with CSS properties and values and generate a simple stylesheet for your site.
 * [CSS3 Generator](http://css3generator.com/)
+* [CSS3 Clickchart](http://css3clickchart.com/)
 
 ###Graphics / Design
 * [Pixlr](http://pixlr.com) - Pixlr is a free online photo editor. Edit, adjust and filter your images.
