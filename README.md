@@ -190,11 +190,8 @@ I tried them to categorize and give them a structure.
 * [HTTP Headers for Dummies](http://net.tutsplus.com/tutorials/other/http-headers-for-dummies/) - Knowhow
 * [Why Every Webdeveloper Should Read the HTTP Specification](http://blog.liip.ch/archive/2011/05/19/why-every-web-developer-should-read-the-http-specifications.html) - Knowhow
 
-###Mobile
-* [12 Tips to Start With Mobile Development](http://www.sitepoint.com/iphone-development-12-tips/) - Knowhow
-
-###Jasmine BDD
-* [Testing jQery Plugins with Jasmine](http://blog.davidpadbury.com/2010/10/11/bdd-testing-of-jquery-plugins-using-jasmine/) - Knowhow
+###HTML5
+* [Polyfill the HTML5 Gaps](http://addyosmani.com/polyfillthehtml5gaps/slides/) - Knowhow, Slides
 
 ###jQuery
 * [Building Stateful jQuery Plugins (Widgets)](http://blog.nemikor.com/2010/05/15/building-stateful-jquery-plugins/) - Knowhow
