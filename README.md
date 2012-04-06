@@ -197,6 +197,7 @@ I tried them to categorize and give them a structure.
 * [Building Stateful jQuery Plugins (Widgets)](http://blog.nemikor.com/2010/05/15/building-stateful-jquery-plugins/) - Knowhow
 
 ###CSS3
+* [CSS Position Einmaleins](http://kleines-universum.de/html-css/css-position-einmaleins-aus-alistapart/) - german
 * [The 30 CSS Selectors You Must Memorize](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/) - Knowhow
 
 ###Websockets
