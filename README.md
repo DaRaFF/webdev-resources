@@ -146,6 +146,7 @@ I tried them to categorize and give them a structure.
 * [h5bp-docs](https://github.com/mklabs/h5bp-docs) - website generator out of markdown files
 * [real time web technologie guide](http://www.leggetter.co.uk/real-time-web-technologies-guide) - list of tools for real time communication
 * [jsdo it](http://jsdo.it/) - javascript live code sharing / editing
+* [hurl](http://hurl.it/) - do curl like requests online
 
 
 
