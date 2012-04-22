@@ -179,6 +179,10 @@ I tried them to categorize and give them a structure.
 * [HTML5 Reset](http://html5reset.org/)
 * [jQuery Plugin Boilerplate](http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/)
 
+###RUP
+* [UPEDU](http://www.upedu.org/) - "Lightweight" RUP
+* [RUP Templates](http://www.ts.mah.se/RUP/RationalUnifiedProcess/) - Templates and some examples of RUP
+
 
 
 
