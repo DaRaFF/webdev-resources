@@ -62,6 +62,7 @@ I tried them to categorize and give them a structure.
 * [Javascript Garden](http://bonsaiden.github.com/JavaScript-Garden/) - Best Practises for Javascript Programming
 * [HTML5 Semantics and Good Coding Practices](http://www.aniketpant.com/article/html5-semantics-and-good-coding-practices)
 * [Code Style Guide ](https://github.com/ginatrapani/ThinkUp/wiki/Code-Style-Guide) - ThinkUp's Code Style Guides for HTML / CSS / Javascript / PHP / Smarty
+* [Code Style Guide by Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) - Google's HTML/CSS STyle Guide
 
 
 
