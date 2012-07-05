@@ -238,6 +238,7 @@ I tried them to categorize and give them a structure.
 ###Firefox
 * [FireBug](http://getfirebug.com/) - The most popular and powerful web development tool
 * [FirePHP](http://www.firephp.org/) - FirePHP enables you to log to your Firebug Console using a simple PHP method call.
+* [FirePath](https://addons.mozilla.org/de/firefox/addon/firepath/) - tool to edit, inspect and generate XPath 1.0 expressions, CSS 3 selectors and JQuery selectors
 * [Web Developer](http://chrispederick.com/work/web-developer/) - The Web Developer extension adds various web developer tools to a browser
 * [HttpFox](https://addons.mozilla.org/en-US/firefox/addon/httpfox/) - monitors incoming and outgoing HTTP traffic
 * [YSlow](http://developer.yahoo.com/yslow/) - YSlow analyzes web pages and suggests ways to improve their performance
