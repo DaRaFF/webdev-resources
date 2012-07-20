@@ -131,6 +131,7 @@ I tried them to categorize and give them a structure.
 * [CSS3 Clickchart](http://css3clickchart.com/)
 
 ###Graphics / Design
+* [Responsify](http://responsify.it/) - Create online a responsive grid and download the template
 * [Fontsquirrel](http://www.fontsquirrel.com/) - Handpicket free fonts, also with a @font-face generator
 * [Pixlr](http://pixlr.com) - Pixlr is a free online photo editor. Edit, adjust and filter your images.
 * [Pencil](http://pencil.evolus.vn) - Opensource Online GUI Prototyping Tool
