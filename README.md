@@ -116,6 +116,7 @@ I tried them to categorize and give them a structure.
 * [YUML](http://www.yuml.me/) - UML diagrams
 * [Gliffy](http://www.gliffy.com/) - UML diagrams
 * [Websequence Diagrams](http://www.websequencediagrams.com/) - Sequence diagrams
+* [Creately](https://creately.com/) - Sequence + Class diagrams
 
 ###Practise
 * [Coderbyte](http://coderbyte.com/) - Learning - Put your programming skills to the test
