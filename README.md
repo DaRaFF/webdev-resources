@@ -191,7 +191,7 @@ I tried them to categorize and give them a structure.
 
 
 
-##<a name="article">Articles / Video</a>
+##<a name="article">Articles / Slides  / Video</a>
 ####REST
 * [Designing HTTP Interfaces and Restful Webservices](http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514) - Concept
 * [REST Testing with Curl](http://blogs.plexibus.com/2009/01/15/rest-esting-with-curl/)
@@ -221,8 +221,10 @@ I tried them to categorize and give them a structure.
 
 ###Video
 * [Bret Victor - Inventing on Principle](http://vimeo.com/36579366)
+
+###Slides
 * [Fabien Potencier - Look Beyond PHP](http://www.slideshare.net/fabpot/look-beyond-php)
-* [Your Code Sucks - Letz fix it](http://www.slideshare.net/rdohms/bettercode-phpbenelux212alternate)
+* [Your Code Sucks - Letz fix it](http://de.slideshare.net/rdohms/your-code-sucks-lets-fix-it-15000359)
 
 ###Music
 * [Multiplayer Online Musice Instrument](http://labs.dinahmoe.com/plink/)
