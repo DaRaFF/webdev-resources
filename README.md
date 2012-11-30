@@ -48,6 +48,7 @@ I tried them to categorize and give them a structure.
 * [Javascript Design Patterns](http://www.joezimjs.com/javascript/javascript-design-patterns-singleton/) - by joe zimjs
 * [Javascript Pattern Collection](http://shichuan.github.com/javascript-patterns/) - by shichuan
 * [SOLID Javascript](http://freshbrewedcode.com/derekgreer/2011/12/08/solid-javascript-single-responsibility-principle/) - by Derek Greer
+* [Designing Better Javascript API's](http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/) - Concept - by Rodney Rehm
 
 ###Software Patterns General
 * [Sourcemaking](http://sourcemaking.com) - Concept - Design Patterns and Refactoring - Collection and explanations of patterns, anti patterns, refactoring, uml                                                                          
