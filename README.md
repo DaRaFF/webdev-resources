@@ -81,6 +81,7 @@ I tried them to categorize and give them a structure.
 * [move the web forward](http://movethewebforward.org/) - resources, tips for web development - initiative by paul irish, addy osmani and a lot of other respected people in the web developer scene
 * [nerdi](http://nerdi.net/) - Collection of useful webdesign and development utilites
 * [Mobile Web Best Practises](http://mobilewebbestpractices.com/resources/) - link list of good resources for mobile web development
+* [Awesome PHP Libraries](https://gist.github.com/ziadoz/1677679)
 
 
 
@@ -261,6 +262,7 @@ I tried them to categorize and give them a structure.
 * [html5weekly](http://html5weekly.com/)
 * [web-design-weekly](http://web-design-weekly.com/)
 * [statuscode](http://statuscode.org/) - weekly email for programmers
+* [phpweekly](http://phpweekly.info/) - weekly email for php developers
 
 
 
