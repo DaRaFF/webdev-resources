@@ -277,6 +277,7 @@ I tried them to categorize and give them a structure.
 
 ###Security General
 * [ExploitDB](http://www.exploit-db.com) - Vulnerability reports, security articles, tutorials and more.
+* [SecTools](http://sectools.org/) - The top security tools
 
 ###XSS - Cross Site Scripting / Security Testing Websides
 * [Eine Einführung in XSS](http://www.muschikrieger.de/blog/2008/05/05/xss-eine-einfuehrung-in-cross-site-scripting/)
