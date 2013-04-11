@@ -140,6 +140,16 @@ I tried them to categorize and give them a structure.
 * [Pencil](http://pencil.evolus.vn) - Opensource Online GUI Prototyping Tool
 * [SpriteCow](http://www.spritecow.com/) - helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css
 * [ResponsivePx](http://responsivepx.com/) - Online tool which helps to find exact pixel sizes for responsive webdesign
+ 
+###Performance
+* [Loads In](http://loads.in/) - Online Test of Webpage Load time
+* [YSlow for chrome](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh)
+* [YSlow for firefox](https://addons.mozilla.org/de/firefox/addon/yslow/)
+* [GTMetrix](http://gtmetrix.com) - Checks different pages based on yslow and other tools and creates a report with suggestions
+* [Pingdom](http://tools.pingdom.com/fpt/) 
+* [Article Performance](http://www.uxbooth.com/articles/how-to-minimize-load-time-for-fast-user-experiences/)
+* [Yahoo Guideline](http://developer.yahoo.com/performance/rules.html)
+
 
 ###Others
 * [DevNullSmtp](http://www.aboutmyip.com/AboutMyXApp/DevNullSmtp.jsp) - Devnull SMTP server - a dummy email server for testing purposes
