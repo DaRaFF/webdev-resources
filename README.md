@@ -82,6 +82,7 @@ I tried them to categorize and give them a structure.
 * [nerdi](http://nerdi.net/) - Collection of useful webdesign and development utilites
 * [Mobile Web Best Practises](http://mobilewebbestpractices.com/resources/) - link list of good resources for mobile web development
 * [Awesome PHP Libraries](https://gist.github.com/ziadoz/1677679)
+* [Superhero.js](http://superherojs.com/) - Collection of the best ressources for Javascript
 
 
 
