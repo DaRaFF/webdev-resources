@@ -156,6 +156,7 @@ I tried them to categorize and give them a structure.
 * [DevNullSmtp](http://www.aboutmyip.com/AboutMyXApp/DevNullSmtp.jsp) - Devnull SMTP server - a dummy email server for testing purposes
 * [Regexe](http://www.regexe.de/) - Regex tester
 * [Localtunnel](https://github.com/progrium/localtunnel) - share your localhost with the internet
+* [forwardhq](https://forwardhq.com/) - share your localhost with the internet
 * [.htaccess tester](http://htaccess.madewithlove.be/)
 * [Screenr](http://www.screenr.com/) - make online screencasts for free
 * [Sound and Movie Loops](http://www.hark.com/)
