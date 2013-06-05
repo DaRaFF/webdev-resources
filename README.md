@@ -83,6 +83,7 @@ I tried them to categorize and give them a structure.
 * [Mobile Web Best Practises](http://mobilewebbestpractices.com/resources/) - link list of good resources for mobile web development
 * [Awesome PHP Libraries](https://gist.github.com/ziadoz/1677679)
 * [Superhero.js](http://superherojs.com/) - Collection of the best ressources for Javascript
+* [Nodecloud](http://www.nodecloud.org/) - Collection of the best node.js ressources
 
 
 
@@ -198,6 +199,7 @@ I tried them to categorize and give them a structure.
 * [HTML5 Mobile Boilerplate](http://html5boilerplate.com/mobile/)
 * [HTML5 Reset](http://html5reset.org/)
 * [jQuery Plugin Boilerplate](http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/)
+* [Twitter Bootstrap](http://twitter.github.io/bootstrap/)
 
 ###RUP
 * [UPEDU](http://www.upedu.org/) - "Lightweight" RUP
