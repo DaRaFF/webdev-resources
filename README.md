@@ -89,6 +89,7 @@ I tried them to categorize and give them a structure.
 
 
 ##<a name="ebook" >eBooks</a>
+* [JsBooks](http://jsbooks.revolunet.com/) - free eBooks for javascript
 * [Node.js for Beginner](http://www.nodebeginner.org/) - node.js for beginner
 * [proGit](http://progit.org/book/)
 * [The Little Book on Coffescript](http://arcturo.com/library/coffeescript/)
