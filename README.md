@@ -173,14 +173,11 @@ I tried them to categorize and give them a structure.
 * [jsdo it](http://jsdo.it/) - javascript live code sharing / editing
 * [hurl](http://hurl.it/) - do curl like requests online
 * [puhpet](https://www.puphpet.com/) - A Simple GUI to Setup Virtual Machines for PHP Development
+* [List of HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
 
 
 ##<a name="framework">Frameworks</a>
-
-###Symfony2
-* [Moving Away From the Base Controller](http://miller.limethinking.co.uk/2011/06/14/symfony2-moving-away-from-the-base-controller/) - Design
-* [Deserializing Request Content Right into Controller Arguments](http://php-and-symfony.matthiasnoback.nl/2012/02/symfony2-deserializing-request-content-right-into-controller-arguments/)
 
 ###jQuery
 * [jQuery Perfomance Improvement Tips](http://24ways.org/2011/your-jquery-now-with-less-suck) - Knowhow
@@ -188,12 +185,6 @@ I tried them to categorize and give them a structure.
 * [Learn jQuery in 30 Days](http://learnjquery.tutsplus.com/) - Learning
 * [Appendto](http://learn.appendto.com/) - Learning - jQuery and Javascript screencasts to learn jQuery and Javascript
 * [The 50 most useful plugins in 2011](http://speckyboy.com/2011/12/07/the-50-most-useful-jquery-plugins-from-2011/)
-
-###YUI 3
-* [JsRosettaStone](http://www.jsrosettastone.com/) - jquery vs yui3 comparison - all important commands
-* [Basic YUI3 Plugin Tutorial](http://patcavit.com/2010/07/01/simple-yui3-plugin-tutorial/) - Knowhow
-* [Building YUI3 Custom Modules](http://www.slideshare.net/caridy/building-yui-3-custom-modules) - Presentation
-* [YUI3 API](http://yuilibrary.com/yui/docs/api/) - API
 
 
 
