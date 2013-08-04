@@ -85,6 +85,7 @@ I tried them to categorize and give them a structure.
 * [Nodecloud](http://www.nodecloud.org/) - Collection of the best node.js ressources
 * [nerdi](http://nerdi.net/) - Collection of useful webdesign and development utilites
 * [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Huge list of awesome bookmarks for frontend development
+* [Webplatform Docs](http://docs.webplatform.org/wiki/Main_Page) - Community-driven site that aims to become a comprehensive and authoritative source for web developer documentation
 
 
 
