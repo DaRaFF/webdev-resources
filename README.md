@@ -198,6 +198,7 @@ I tried them to categorize and give them a structure.
 * [jQuery Plugin Boilerplate](http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/)
 * [Twitter Bootstrap](http://twitter.github.io/bootstrap/)
 * [Twitter Bootstrap Themes](http://www.naden.de/blog/twitter-bootstrap-themes)
+* [jQuery Boilerplate](http://jqueryboilerplate.com/)
 
 ###RUP
 * [UPEDU](http://www.upedu.org/) - "Lightweight" RUP
