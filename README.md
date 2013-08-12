@@ -199,6 +199,7 @@ I tried them to categorize and give them a structure.
 * [Twitter Bootstrap](http://twitter.github.io/bootstrap/)
 * [Twitter Bootstrap Themes](http://www.naden.de/blog/twitter-bootstrap-themes)
 * [jQuery Boilerplate](http://jqueryboilerplate.com/)
+* [MEAN Boilerplate](https://github.com/linnovate/mean) - MEAN is a boilerplate that provides a nice starting point for MongoDB, Node.js, Express, and AngularJS based applications.
 
 ###RUP
 * [UPEDU](http://www.upedu.org/) - "Lightweight" RUP
