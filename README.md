@@ -33,6 +33,7 @@ I tried them to categorize and give them a structure.
 ##<a name="mustsee">Must See</a>
 ###Video
 * [Bret Victor - Inventing on Principle](http://vimeo.com/36579366)
+* [Joe Armstrong - Systems that Run Forever Self-heal and Scale](http://www.infoq.com/presentations/self-heal-scalable-system)
 
 ###Slides
 * [Your Code Sucks - Letz fix it](http://de.slideshare.net/rdohms/your-code-sucks-lets-fix-it-15000359)
