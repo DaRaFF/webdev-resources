@@ -15,6 +15,7 @@ I tried them to categorize and give them a structure.
         
 
 ##Index
+* [Must See](#mustsee)
 * [Software Design](#softwaredesign)
 * [Clean Code](#cleancode)
 * [Standards / Specification](#standard)
@@ -29,6 +30,12 @@ I tried them to categorize and give them a structure.
 * [Email Newsletter](#newsletter)
 * [Security](#security)
 
+##<a name="must see">Must See</a>
+###Video
+* [Bret Victor - Inventing on Principle](http://vimeo.com/36579366)
+
+###Slides
+* [Your Code Sucks - Letz fix it](http://de.slideshare.net/rdohms/your-code-sucks-lets-fix-it-15000359)
 
 
 
@@ -236,12 +243,8 @@ I tried them to categorize and give them a structure.
 ###Browser
 * [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
 
-###Video
-* [Bret Victor - Inventing on Principle](http://vimeo.com/36579366)
-
 ###Slides
 * [Fabien Potencier - Look Beyond PHP](http://www.slideshare.net/fabpot/look-beyond-php)
-* [Your Code Sucks - Letz fix it](http://de.slideshare.net/rdohms/your-code-sucks-lets-fix-it-15000359)
 
 ###Music
 * [Multiplayer Online Musice Instrument](http://labs.dinahmoe.com/plink/)
