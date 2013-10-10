@@ -32,8 +32,11 @@ I tried them to categorize and give them a structure.
 
 ##<a name="mustsee">Must See</a>
 ###Video
-* [Bret Victor - Inventing on Principle](http://vimeo.com/36579366)
-* [Joe Armstrong - Systems that Run Forever Self-heal and Scale](http://www.infoq.com/presentations/self-heal-scalable-system)
+* [Inventing on Principle by Bret Victor](http://vimeo.com/36579366)
+* [Systems that Run Forever Self-heal and Scale by Joe Armstrong](http://www.infoq.com/presentations/self-heal-scalable-system)
+* [Micro-Service Architecture by Fred George](http://www.youtube.com/watch?v=2rKEveL55TY&list=WL4F525DD3809ED677)
+* [Introduction to NoSQL by Martin Fowler](http://www.youtube.com/watch?v=qI_g07C_Q5I)
+* [Architecture the Lost Years by Robert Martin](http://www.youtube.com/watch?v=WpkDN78P884)
 
 ###Slides
 * [Your Code Sucks - Letz fix it](http://de.slideshare.net/rdohms/your-code-sucks-lets-fix-it-15000359)
