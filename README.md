@@ -184,7 +184,8 @@ I tried them to categorize and give them a structure.
 * [real time web technologie guide](http://www.leggetter.co.uk/real-time-web-technologies-guide) - list of tools for real time communication
 * [jsdo it](http://jsdo.it/) - javascript live code sharing / editing
 * [hurl](http://hurl.it/) - do curl like requests online
-* [puhpet](https://www.puphpet.com/) - A Simple GUI to Setup Virtual Machines for PHP Development
+* [puhpet](https://www.puphpet.com/) - Vagrantfile Generator with simple GUI for Web Development
+* [rove](http://rove.io/) - Vagrantfile Generator with simple GUI
 * [List of HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 * [Screenr](http://www.screenr.com/) - Online Screencast Tool
 
