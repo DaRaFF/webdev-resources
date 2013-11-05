@@ -40,6 +40,7 @@ I tried them to categorize and give them a structure.
 
 ###Slides
 * [Your Code Sucks - Letz fix it](http://de.slideshare.net/rdohms/your-code-sucks-lets-fix-it-15000359)
+* [The Landscape Of Front-end Development Automation](http://updates.html5rocks.com/2013/11/The-Landscape-Of-Front-end-Development-Automation-Slides)
 
 
 
