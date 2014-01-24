@@ -29,7 +29,7 @@ I tried them to categorize and give them a structure.
 * [Browser Plugins](#browser-plugin)
 * [Email Newsletter](#newsletter)
 * [Security](#security)
-* [Learn with Games][#learnbygaming]
+* [Learn with Games](#learnbygaming)
 
 ##<a name="mustsee">Must See</a>
 ###Video
