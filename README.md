@@ -29,6 +29,7 @@ I tried them to categorize and give them a structure.
 * [Browser Plugins](#browser-plugin)
 * [Email Newsletter](#newsletter)
 * [Security](#security)
+* [Learn with Games][#learnbygaming]
 
 ##<a name="mustsee">Must See</a>
 ###Video
@@ -319,3 +320,9 @@ I tried them to categorize and give them a structure.
 
 ###Virus / Scanning
 * [UnmqwkParasites](www.unmaskparasites.com) - Online malwarecheck to a webside 
+
+
+# <a name="learnbygaming">Learn with Games</a>   
+* [Regex Golf](http://regex.alf.nu) - Write Regex and get as much as possible points
+* [MySQL Game](http://mysqlgame.com/) - Fight against others in a real mysql db with db queries
+* [CodeAcademy](http://www.codecademy.com/) - Not a game, but you can online learn step by step different languages
