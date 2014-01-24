@@ -324,6 +324,7 @@ I tried them to categorize and give them a structure.
 
 # <a name="learnbygaming">Learn with Games</a>   
 * [Regex Golf](http://regex.alf.nu) - Write Regex and get as much as possible points
+* [Regex Crossword](http://regexcrossword.com/) - Solve Crosswords with writing regex
 * [MySQL Game](http://mysqlgame.com/) - Fight against others in a real mysql db with db queries
 * [CodeAcademy](http://www.codecademy.com/) - Not a game, but you can online learn step by step different languages
 * [Dungeons and Developers](http://www.dungeonsanddevelopers.com/) - An RPG-style talent tree for web developers
