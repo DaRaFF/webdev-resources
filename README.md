@@ -288,6 +288,7 @@ I tried them to categorize and give them a structure.
 * [web-design-weekly](http://web-design-weekly.com/)
 * [statuscode](http://statuscode.org/) - weekly email for programmers
 * [phpweekly](http://phpweekly.info/) - weekly email for php developers
+* [gamedev-js-weekly](http://weekly.gamedevjs.com/)
 
 
 
