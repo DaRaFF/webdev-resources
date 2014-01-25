@@ -290,6 +290,7 @@ I tried them to categorize and give them a structure.
 * [phpweekly](http://phpweekly.info/) - weekly email for php developers
 * [gamedev-js-weekly](http://weekly.gamedevjs.com/)
 * [dbweekly](http://dbweekly.com/)
+* [nodeweekly](http://nodeweekly.com/)
 
 
 
