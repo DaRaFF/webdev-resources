@@ -291,7 +291,7 @@ I tried them to categorize and give them a structure.
 * [gamedev-js-weekly](http://weekly.gamedevjs.com/)
 * [dbweekly](http://dbweekly.com/)
 * [nodeweekly](http://nodeweekly.com/)
-
+* [rubyweekly](http://rubyweekly.com/)
 
 
 
