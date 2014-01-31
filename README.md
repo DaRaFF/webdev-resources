@@ -95,6 +95,7 @@ I tried them to categorize and give them a structure.
 * [Mobile Web Best Practises](http://mobilewebbestpractices.com/resources/) - link list of good resources for mobile web development
 * [Awesome PHP Libraries](https://gist.github.com/ziadoz/1677679)
 * [Superhero.js](http://superherojs.com/) - Collection of the best ressources for Javascript
+* [JavascriptOO](http://www.javascriptoo.com/) - Collection of the best ressources for Javascript
 * [Nodecloud](http://www.nodecloud.org/) - Collection of the best node.js ressources
 * [nerdi](http://nerdi.net/) - Collection of useful webdesign and development utilites
 * [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Huge list of awesome bookmarks for frontend development
