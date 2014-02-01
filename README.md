@@ -140,9 +140,6 @@ I tried them to categorize and give them a structure.
 * [Websequence Diagrams](http://www.websequencediagrams.com/) - Sequence diagrams
 * [Creately](https://creately.com/) - Sequence + Class diagrams
 
-###Practise
-* [Coderbyte](http://coderbyte.com/) - Learning - Put your programming skills to the test
-
 ###Editors
 * [jsbin](http://jsbin.com/) - Javscript Editor in Browser
 * [jsfiddle](http://jsfiddle.net/) - Javascript Editor in Browser
@@ -327,8 +324,9 @@ I tried them to categorize and give them a structure.
 
 
 # <a name="learnbygaming">Learn with Games</a>   
+* [CodeAcademy](http://www.codecademy.com/) - Not a game, but you can online learn step by step different languages
+* [Coderbyte](http://coderbyte.com/) - Learning - Put your programming skills to the test
 * [Regex Golf](http://regex.alf.nu) - Write Regex and get as much as possible points
 * [Regex Crossword](http://regexcrossword.com/) - Solve Crosswords with writing regex
 * [MySQL Game](http://mysqlgame.com/) - Fight against others in a real mysql db with db queries
-* [CodeAcademy](http://www.codecademy.com/) - Not a game, but you can online learn step by step different languages
 * [Dungeons and Developers](http://www.dungeonsanddevelopers.com/) - An RPG-style talent tree for web developers
