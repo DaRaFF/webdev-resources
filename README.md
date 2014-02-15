@@ -324,7 +324,6 @@ I tried them to categorize and give them a structure.
 
 
 # <a name="learnbygaming">Learn with Games and Challenges</a>   
-* [CodeAcademy](http://www.codecademy.com/) - Not a game, but you can online learn step by step different languages
 * [Hackerrank](https://www.hackerrank.com/) -  A lot of programming challenges, where you can compete against others
 * [Codewars](http://www.codewars.com/) - A lot of Katas/Dojos/Challenges with Badges
 * [Coderbyte](http://coderbyte.com/) - Learning - Put your programming skills to the test
@@ -332,8 +331,8 @@ I tried them to categorize and give them a structure.
 * [Regex Crossword](http://regexcrossword.com/) - Solve Crosswords with writing regex
 * [MySQL Game](http://mysqlgame.com/) - Fight against others in a real mysql db with db queries
 * [Dungeons and Developers](http://www.dungeonsanddevelopers.com/) - An RPG-style talent tree for web developers
-* [Playterm](http://playterm.org/) - Educational Linux Shell Replays
-* 
 
 # <a name="learning">Learning</a>   
+* [CodeAcademy](http://www.codecademy.com/) - Learn step by step different languages online
+* [Playterm](http://playterm.org/) - Educational Linux Shell Replays
 * [AppendTo](http://learn.appendto.com/lessons) - free javascript/jquery video lessons
