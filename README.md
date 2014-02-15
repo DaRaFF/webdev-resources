@@ -326,6 +326,7 @@ I tried them to categorize and give them a structure.
 # <a name="learnbygaming">Learn with Games and Challenges</a>   
 * [CodeAcademy](http://www.codecademy.com/) - Not a game, but you can online learn step by step different languages
 * [Hackerrank](https://www.hackerrank.com/) -  A lot of programming challenges, where you can compete against others
+* [Codewars](http://www.codewars.com/) - A lot of Katas/Dojos/Challenges with Badges
 * [Coderbyte](http://coderbyte.com/) - Learning - Put your programming skills to the test
 * [Regex Golf](http://regex.alf.nu) - Write Regex and get as much as possible points
 * [Regex Crossword](http://regexcrossword.com/) - Solve Crosswords with writing regex
