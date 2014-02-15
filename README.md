@@ -332,3 +332,4 @@ I tried them to categorize and give them a structure.
 * [Regex Crossword](http://regexcrossword.com/) - Solve Crosswords with writing regex
 * [MySQL Game](http://mysqlgame.com/) - Fight against others in a real mysql db with db queries
 * [Dungeons and Developers](http://www.dungeonsanddevelopers.com/) - An RPG-style talent tree for web developers
+* [Playterm](http://playterm.org/) - Educational Linux Shell Replays
