@@ -35,6 +35,7 @@ I tried them to categorize and give them a structure.
 ###Video
 * [Inventing on Principle by Bret Victor](http://vimeo.com/36579366)
 * [Systems that Run Forever Self-heal and Scale by Joe Armstrong](http://www.infoq.com/presentations/self-heal-scalable-system)
+* [Rewrites überleben](http://www.youtube.com/watch?v=Ylk8RrRSL2c&list=WL4F525DD3809ED677) - German talk about software rewrites
 * [Micro-Service Architecture by Fred George](http://www.youtube.com/watch?v=2rKEveL55TY&list=WL4F525DD3809ED677)
 * [Introduction to NoSQL by Martin Fowler](http://www.youtube.com/watch?v=qI_g07C_Q5I)
 * [Architecture the Lost Years by Robert Martin](http://www.youtube.com/watch?v=WpkDN78P884)
