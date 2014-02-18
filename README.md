@@ -38,7 +38,7 @@ I tried them to categorize and give them a structure.
 * EN [Micro-Service Architecture by Fred George](http://www.youtube.com/watch?v=2rKEveL55TY&list=WL4F525DD3809ED677)
 * EN [Introduction to NoSQL by Martin Fowler](http://www.youtube.com/watch?v=qI_g07C_Q5I)
 * EN [Architecture the Lost Years by Robert Martin](http://www.youtube.com/watch?v=WpkDN78P884)
-* DE * [Rewrites überleben](http://www.youtube.com/watch?v=Ylk8RrRSL2c&list=WL4F525DD3809ED677) - German talk about software rewrites
+* DE [Rewrites überleben](http://www.youtube.com/watch?v=Ylk8RrRSL2c&list=WL4F525DD3809ED677)
 
 ###Slides
 * [Your Code Sucks - Letz fix it](http://de.slideshare.net/rdohms/your-code-sucks-lets-fix-it-15000359)
