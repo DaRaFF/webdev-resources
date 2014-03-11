@@ -252,7 +252,7 @@ I tried them to categorize and give them a structure.
 
 ### Music
 * [Multiplayer Online Musice Instrument](http://labs.dinahmoe.com/plink/)
-* 
+
 ### Performance
 * [Design for Performance](https://speakerdeck.com/lara/design-for-performance)
 * [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
