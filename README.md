@@ -223,38 +223,39 @@ I tried them to categorize and give them a structure.
 
 
 ##<a name="article">Articles / Slides  / Video</a>
-####REST
+### REST
 * [Designing HTTP Interfaces and Restful Webservices](http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514) - Concept
 * [REST Testing with Curl](http://blogs.plexibus.com/2009/01/15/rest-esting-with-curl/)
 
-###HTTP
+### HTTP
 * [HTTP Headers for Dummies](http://net.tutsplus.com/tutorials/other/http-headers-for-dummies/) - Knowhow
 * [Why Every Webdeveloper Should Read the HTTP Specification](http://blog.liip.ch/archive/2011/05/19/why-every-web-developer-should-read-the-http-specifications.html) - Knowhow
 
-###HTML5
+### HTML5
 * [Polyfill the HTML5 Gaps](http://addyosmani.com/polyfillthehtml5gaps/slides/) - Knowhow, Slides
 
-###jQuery
+### jQuery
 * [Building Stateful jQuery Plugins (Widgets)](http://blog.nemikor.com/2010/05/15/building-stateful-jquery-plugins/) - Knowhow
 
-###CSS3
+### CSS3
 * [CSS Position Einmaleins](http://kleines-universum.de/html-css/css-position-einmaleins-aus-alistapart/) - german
 * [The 30 CSS Selectors You Must Memorize](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/) - Knowhow
 
-###Websockets
+### Websockets
 * [Websocket Basics](http://www.html5rocks.com/en/tutorials/websockets/basics/) - Concept
 
-###NodeJS
+### NodeJS
 * [An advanced Example of NodeJS, Express.js (mvc), EJS (templating) and socket.io (sockets) which really works](http://borntoprogram.blogspot.com/2011/07/reaktiv-im-web-mit-nodejsexpressjssocke.html) - Knowhow - German
 
-###Browser
-* [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
-
-###Slides
+### Slides
 * [Fabien Potencier - Look Beyond PHP](http://www.slideshare.net/fabpot/look-beyond-php)
 
-###Music
+### Music
 * [Multiplayer Online Musice Instrument](http://labs.dinahmoe.com/plink/)
+* 
+### Performance
+* [Design for Performance](https://speakerdeck.com/lara/design-for-performance)
+* [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
 
 
 
