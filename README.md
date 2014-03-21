@@ -258,6 +258,7 @@ I tried them to categorize and give them a structure.
 * [Design for Performance](https://speakerdeck.com/lara/design-for-performance)
 * [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
 * [Page Speed: How Soon Will Visitors See Your Content?](http://www.sitepoint.com/page-speed-soon-visitors-see-content/) - Excellent article with a lot of good links 
+* [Fluent 2014, "Keynote With Paul Irish"](http://youtu.be/R8W_6xWphtw) - improvements of webpageloadtime  
 
 
 
