@@ -176,8 +176,7 @@ I tried them to categorize and give them a structure.
 ###Others
 * [DevNullSmtp](http://www.aboutmyip.com/AboutMyXApp/DevNullSmtp.jsp) - Devnull SMTP server - a dummy email server for testing purposes
 * [Regexe](http://www.regexe.de/) - Regex tester
-* [Localtunnel](https://github.com/progrium/localtunnel) - share your localhost with the internet
-* [forwardhq](https://forwardhq.com/) - share your localhost with the internet
+* [NGrok](https://ngrok.com/) - share your localhost with the internet
 * [.htaccess tester](http://htaccess.madewithlove.be/)
 * [Screenr](http://www.screenr.com/) - make online screencasts for free
 * [Sound and Movie Loops](http://www.hark.com/)
@@ -191,7 +190,6 @@ I tried them to categorize and give them a structure.
 * [puhpet](https://www.puphpet.com/) - Vagrantfile Generator with simple GUI for Web Development
 * [rove](http://rove.io/) - Vagrantfile Generator with simple GUI
 * [List of HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
-* [Screenr](http://www.screenr.com/) - Online Screencast Tool
 
 
 
