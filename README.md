@@ -326,7 +326,7 @@ I tried them to categorize and give them a structure.
 * [SecurityScanner](http://sourceforge.net/projects/securityscanner/)
 
 ###Virus / Scanning
-* [UnmqwkParasites](www.unmaskparasites.com) - Online malwarecheck to a webside 
+* [UnmqwkParasites](http://www.unmaskparasites.com) - Online malwarecheck to a webside 
 
 
 # <a name="learnbygaming">Learn with Games and Challenges</a>   
