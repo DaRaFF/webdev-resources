@@ -223,9 +223,15 @@ I tried them to categorize and give them a structure.
 
 
 ##<a name="article">Articles / Slides  / Video</a>
-### REST
-* [Designing HTTP Interfaces and Restful Webservices](http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514) - Concept
-* [REST Testing with Curl](http://blogs.plexibus.com/2009/01/15/rest-esting-with-curl/)
+
+### Performance
+* [Design for Performance](https://speakerdeck.com/lara/design-for-performance)
+* [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
+* [Page Speed: How Soon Will Visitors See Your Content?](http://www.sitepoint.com/page-speed-soon-visitors-see-content/) - Excellent article with a lot of good links 
+* [Fluent 2014, "Keynote With Paul Irish"](http://youtu.be/R8W_6xWphtw) - improvements of webpageloadtime
+* [High Performance Websites with Steve Souders](https://www.youtube.com/watch?v=iaOhgeCIj0w)
+* [Webpage Performance Optimisation - Part 1](http://programming.oreilly.com/2012/05/velocity-performance-makeover.html)
+* [Webpage Performance Optimisation - Part 2](http://programming.oreilly.com/2014/03/tailoring-for-performance.html)
 
 ### HTTP
 * [HTTP Headers for Dummies](http://net.tutsplus.com/tutorials/other/http-headers-for-dummies/) - Knowhow
@@ -252,13 +258,6 @@ I tried them to categorize and give them a structure.
 
 ### Music
 * [Multiplayer Online Musice Instrument](http://labs.dinahmoe.com/plink/)
-
-### Performance
-* [Design for Performance](https://speakerdeck.com/lara/design-for-performance)
-* [Chrome Profiling](http://zetafleet.com/blog/google-chromes-heap-profiler-and-memory-timeline)
-* [Page Speed: How Soon Will Visitors See Your Content?](http://www.sitepoint.com/page-speed-soon-visitors-see-content/) - Excellent article with a lot of good links 
-* [Fluent 2014, "Keynote With Paul Irish"](http://youtu.be/R8W_6xWphtw) - improvements of webpageloadtime
-* [High Performance Websites with Steve Souders](https://www.youtube.com/watch?v=iaOhgeCIj0w)
 
 
 
