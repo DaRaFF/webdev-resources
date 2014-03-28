@@ -164,12 +164,13 @@ I tried them to categorize and give them a structure.
 ###Performance
 * [Webpagetest](http://www.webpagetest.org/) - Checks a website and analyzes performance issues
 * [GTMetrix](http://gtmetrix.com) - Checks different pages based on yslow and other tools and creates a report with suggestions
+* [Pingdom](http://tools.pingdom.com/fpt/) - Checks a website and analyzes performance issues
 * [Loads In](http://loads.in/) - Online Test of Webpage Load time
-* [YSlow for chrome](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh)
-* [YSlow for firefox](https://addons.mozilla.org/de/firefox/addon/yslow/)
-* [Pingdom](http://tools.pingdom.com/fpt/) 
+* [Webwait](http://webwait.com/) - Very small tool to test website responses and compare with different websites
+* [YSlow for chrome](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) - YSlow Browser Plugin
+* [YSlow for firefox](https://addons.mozilla.org/de/firefox/addon/yslow/) - YSlow Browser Plugin
 * [Article Performance](http://www.uxbooth.com/articles/how-to-minimize-load-time-for-fast-user-experiences/)
-* [Yahoo Guideline](http://developer.yahoo.com/performance/rules.html)
+* [Yahoo Guideline](http://developer.yahoo.com/performance/rules.html) - Knowhow
 * [DOM Monster](http://mir.aculo.us/dom-monster/) - bookmarklet, which analyzes the DOM and give you tips how to improve
 
 
