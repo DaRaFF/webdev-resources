@@ -165,6 +165,7 @@ I tried them to categorize and give them a structure.
 * [Webpagetest](http://www.webpagetest.org/) - Checks a website and analyzes performance issues
 * [GTMetrix](http://gtmetrix.com) - Checks different pages based on yslow and other tools and creates a report with suggestions
 * [Pingdom](http://tools.pingdom.com/fpt/) - Checks a website and analyzes performance issues
+* [Google Page Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze the page and get tips how to improve the performance
 * [Loads In](http://loads.in/) - Online Test of Webpage Load time
 * [Webwait](http://webwait.com/) - Very small tool to test website responses and compare with different websites
 * [YSlow for chrome](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) - YSlow Browser Plugin
