@@ -342,6 +342,6 @@ I tried them to categorize and give them a structure.
 * [Code Combat](http://codecombat.com/) - Learn javascript programming with a real game, where you have to code the moves to win the battle
 
 # <a name="learning">Learning</a>   
-* [CodeAcademy](http://www.codecademy.com/) - Learn step by step different languages online
+* [Codecademy](http://www.codecademy.com/) - Learn step by step different languages online
 * [Playterm](http://playterm.org/) - Educational Linux Shell Replays
 * [AppendTo](http://learn.appendto.com/lessons) - free javascript/jquery video lessons
