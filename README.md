@@ -68,6 +68,7 @@ I tried them to categorize and give them a structure.
 ###Software Patterns General
 * [Sourcemaking](http://sourcemaking.com) - Concept - Design Patterns and Refactoring - Collection and explanations of patterns, anti patterns, refactoring, uml                                                                          
 * [Scalable and modular architecture for css](http://smacss.com/book/) - Concept - Best practices on how to design proper css
+* [12 factor app](http://12factor.net/) - Concept - A methodology for building software-as-a-service apps
 
 
 
