@@ -347,4 +347,5 @@ I tried them to categorize and give them a structure.
 * [Codecademy](http://www.codecademy.com/) - Learn step by step different languages online
 * [Playterm](http://playterm.org/) - Educational Linux Shell Replays
 * [AppendTo](http://learn.appendto.com/lessons) - free javascript/jquery video lessons
+* [Interactive Node Workshops](http://nodeschool.io/)
 * [Stackoverflow recommended list of dev books](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?page=1&tab=votes#tab-top)
