@@ -90,6 +90,8 @@ I tried them to categorize and give them a structure.
 ##<a name="standard" >Standards / Specifications</a>
 ###PHP
 * [PHP Standards](https://github.com/pmjones/fig-standards) - Description of PHP Standards, well known as PSR-0, PSR-1, ...
+* [Semantic Versioning](http://semver.org/)
+* [Keep a Changelog](http://keepachangelog.com/) - not a real standard, but helpful to write changelogs
 
 
 
