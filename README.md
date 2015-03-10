@@ -34,6 +34,7 @@ I tried them to categorize and give them a structure.
 ##<a name="mustsee">Must See</a>
 ###Video
 * EN [Inventing on Principle by Bret Victor](http://vimeo.com/36579366)
+* EN [The Future of Programming by Bret Victor](https://vimeo.com/71278954)
 * EN [Systems that Run Forever Self-heal and Scale by Joe Armstrong](http://www.infoq.com/presentations/self-heal-scalable-system)
 * EN [Micro-Service Architecture by Fred George](http://www.youtube.com/watch?v=2rKEveL55TY&list=WL4F525DD3809ED677)
 * EN [Introduction to NoSQL by Martin Fowler](http://www.youtube.com/watch?v=qI_g07C_Q5I)
