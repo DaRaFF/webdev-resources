@@ -186,7 +186,7 @@ I tried them to categorize and give them a structure.
 
 ###Others
 * [DevNullSmtp](http://www.aboutmyip.com/AboutMyXApp/DevNullSmtp.jsp) - Devnull SMTP server - a dummy email server for testing purposes
-* [Regexe](http://www.regexe.de/) - Regex tester
+* [regex101](https://regex101.com) - Regex Service
 * [NGrok](https://ngrok.com/) - share your localhost with the internet
 * [.htaccess tester](http://htaccess.madewithlove.be/)
 * [Screenr](http://www.screenr.com/) - make online screencasts for free
