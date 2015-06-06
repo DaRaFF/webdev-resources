@@ -95,6 +95,7 @@ I tried them to categorize and give them a structure.
 * [Semantic Versioning](http://semver.org/)
 * [Keep a Changelog](http://keepachangelog.com/) - not a real standard, but helpful to write changelogs
 * [JSON Schema](http://spacetelescope.github.io/understanding-json-schema/) - json schema standard explained
+* [JSON API](http://jsonapi.org/) - a specification for building APIs in JSON
 
 
 
