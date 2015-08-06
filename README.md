@@ -357,3 +357,4 @@ I tried them to categorize and give them a structure.
 * [AppendTo](http://learn.appendto.com/lessons) - free javascript/jquery video lessons
 * [Nodeschool.io](http://nodeschool.io/) - Interactive Node Workshops
 * [Stackoverflow recommended list of dev books](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?page=1&tab=votes#tab-top)
+* [Perfschool](https://github.com/bevacqua/perfschool) - Interactive Performance Workshop
