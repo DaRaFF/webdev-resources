@@ -19,6 +19,7 @@ I tried them to categorize and give them a structure.
 * [Software Design](#softwaredesign)
 * [Clean Code](#cleancode)
 * [Standards / Specification](#standard)
+* [Services](#service)
 * [Great Resources](#greatresources)
 * [eBooks](#ebook)
 * [Blogs](#blog)
@@ -96,6 +97,14 @@ I tried them to categorize and give them a structure.
 * [Keep a Changelog](http://keepachangelog.com/) - not a real standard, but helpful to write changelogs
 * [JSON Schema](http://spacetelescope.github.io/understanding-json-schema/) - json schema standard explained
 * [JSON API](http://jsonapi.org/) - a specification for building APIs in JSON
+
+
+
+
+##<a name="service">Services</a>
+
+* [Mashape](https://www.mashape.com/) - API Services
+* [Kong](https://getkong.org/) - Secure and Manage your Microservices + APIs behind Kong as infrastructure layer
 
 
 
