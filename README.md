@@ -103,6 +103,8 @@ I tried them to categorize and give them a structure.
 
 ##<a name="service">Services</a>
 
+* [Swagger](http://swagger.io/) - Framework for API Specification (specify your API with yml)
+* [Apiary](https://apiary.io/) - Framework for API Specification (specify your API with yml)
 * [Mashape](https://www.mashape.com/) - API Services
 * [Kong](https://getkong.org/) - Secure and Manage your Microservices + APIs behind Kong as infrastructure layer
 
