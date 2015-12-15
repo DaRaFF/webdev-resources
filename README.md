@@ -107,6 +107,7 @@ I tried them to categorize and give them a structure.
 * [Apiary](https://apiary.io/) - Framework for API Specification (specify your API with yml)
 * [Mashape](https://www.mashape.com/) - API Services
 * [Kong](https://getkong.org/) - Secure and Manage your Microservices + APIs behind Kong as infrastructure layer
+* [Zapier](https://zapier.com/) - Service to connect different apps together
 
 
 
