@@ -40,6 +40,7 @@ I tried them to categorize and give them a structure.
 * EN [CQRS and Event Sourcing by Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs)
 * EN [CQRS by Greg Young](http://www.infoq.com/presentations/greg-young-unshackle-qcon08)
 * EN [Make Roles Explicit by Udi Dahan](http://www.infoq.com/presentations/Making-Roles-Explicit-Udi-Dahan)
+* EN (CQRS Introduction by Udi Dahan)(https://www.youtube.com/watch?v=EkEz3pcLdgY)
 * EN [Systems that Run Forever Self-heal and Scale by Joe Armstrong](http://www.infoq.com/presentations/self-heal-scalable-system)
 * EN [Micro-Service Architecture by Fred George](http://www.youtube.com/watch?v=2rKEveL55TY&list=WL4F525DD3809ED677)
 * EN [Introduction to NoSQL by Martin Fowler](http://www.youtube.com/watch?v=qI_g07C_Q5I)
