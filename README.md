@@ -24,13 +24,14 @@ I tried them to categorize and give them a structure.
 * [eBooks](#ebook)
 * [Blogs](#blog)
 * [Tools](#tool)
+* [Learn with Games and Challenges](#learnbygaming)
+* [Learning](#learning)
 * [Frameworks](#framework)
 * [Boilerplate](#boilerplate)
 * [Articles](#article)
 * [Browser Plugins](#browser-plugin)
 * [Email Newsletter](#newsletter)
 * [Security](#security)
-* [Learn with Games and Challenges](#learnbygaming)
 
 ##<a name="mustsee">Must See</a>
 ###Video
@@ -45,6 +46,7 @@ I tried them to categorize and give them a structure.
 * EN [Micro-Service Architecture by Fred George](http://www.youtube.com/watch?v=2rKEveL55TY&list=WL4F525DD3809ED677)
 * EN [Introduction to NoSQL by Martin Fowler](http://www.youtube.com/watch?v=qI_g07C_Q5I)
 * EN [Architecture the Lost Years by Robert Martin](http://www.youtube.com/watch?v=WpkDN78P884)
+* EN [Clean Architecture by Robert Martin](https://www.youtube.com/watch?v=Nltqi7ODZTM)
 * EN [The Art of Simplicity by Venkat Subramaniam](https://www.youtube.com/watch?v=-ZPgO5USBoI&index=4&list=PLwKze3Ty-pjZJ31ye7WaFlkJ0LzXK76Tb)
 * DE [Rewrites überleben](http://www.youtube.com/watch?v=Ylk8RrRSL2c&list=WL4F525DD3809ED677)
 
@@ -222,6 +224,27 @@ I tried them to categorize and give them a structure.
 
 
 
+
+# <a name="learnbygaming">Learn with Games and Challenges</a>   
+* [Hackerrank](https://www.hackerrank.com/) -  A lot of programming challenges, where you can compete against others
+* [Codewars](http://www.codewars.com/) - A lot of Katas/Dojos/Challenges with Badges
+* [Coderbyte](http://coderbyte.com/) - Learning - Put your programming skills to the test
+* [Regex Golf](http://regex.alf.nu) - Write Regex and get as much as possible points
+* [Regex Crossword](http://regexcrossword.com/) - Solve Crosswords with writing regex
+* [MySQL Game](http://mysqlgame.com/) - Fight against others in a real mysql db with db queries
+* [Dungeons and Developers](http://www.dungeonsanddevelopers.com/) - An RPG-style talent tree for web developers
+* [Code Combat](http://codecombat.com/) - Learn javascript programming with a real game, where you have to code the moves to win the battle
+
+# <a name="learning">Learning</a>   
+* [Codecademy](http://www.codecademy.com/) - Learn step by step different languages online
+* [Playterm](http://playterm.org/) - Educational Linux Shell Replays
+* [AppendTo](http://learn.appendto.com/lessons) - free javascript/jquery video lessons
+* [Nodeschool.io](http://nodeschool.io/) - Interactive Node Workshops
+* [Stackoverflow recommended list of dev books](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?page=1&tab=votes#tab-top)
+* [Perfschool](https://github.com/bevacqua/perfschool) - Interactive Performance Workshop
+
+
+
 ##<a name="framework">Frameworks</a>
 
 ###jQuery
@@ -355,22 +378,3 @@ I tried them to categorize and give them a structure.
 
 ###Virus / Scanning
 * [UnmqwkParasites](http://www.unmaskparasites.com) - Online malwarecheck to a webside 
-
-
-# <a name="learnbygaming">Learn with Games and Challenges</a>   
-* [Hackerrank](https://www.hackerrank.com/) -  A lot of programming challenges, where you can compete against others
-* [Codewars](http://www.codewars.com/) - A lot of Katas/Dojos/Challenges with Badges
-* [Coderbyte](http://coderbyte.com/) - Learning - Put your programming skills to the test
-* [Regex Golf](http://regex.alf.nu) - Write Regex and get as much as possible points
-* [Regex Crossword](http://regexcrossword.com/) - Solve Crosswords with writing regex
-* [MySQL Game](http://mysqlgame.com/) - Fight against others in a real mysql db with db queries
-* [Dungeons and Developers](http://www.dungeonsanddevelopers.com/) - An RPG-style talent tree for web developers
-* [Code Combat](http://codecombat.com/) - Learn javascript programming with a real game, where you have to code the moves to win the battle
-
-# <a name="learning">Learning</a>   
-* [Codecademy](http://www.codecademy.com/) - Learn step by step different languages online
-* [Playterm](http://playterm.org/) - Educational Linux Shell Replays
-* [AppendTo](http://learn.appendto.com/lessons) - free javascript/jquery video lessons
-* [Nodeschool.io](http://nodeschool.io/) - Interactive Node Workshops
-* [Stackoverflow recommended list of dev books](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?page=1&tab=votes#tab-top)
-* [Perfschool](https://github.com/bevacqua/perfschool) - Interactive Performance Workshop
