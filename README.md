@@ -22,7 +22,6 @@ I tried them to categorize and give them a structure.
 * [Services](#service)
 * [Great Resources](#greatresources)
 * [eBooks](#ebook)
-* [Blogs](#blog)
 * [Tools](#tool)
 * [Learn with Games and Challenges](#learnbygaming)
 * [Learning](#learning)
@@ -154,14 +153,6 @@ I tried them to categorize and give them a structure.
 
 
 
-##<a name="blog" >Blogs</a>
-###Symfony2
-* [Blog by Matthias Noback](http://php-and-symfony.matthiasnoback.nl/)
-* [Blog by Richard Miller](http://miller.limethinking.co.uk/)
-* [Blog by Lukas Smith](http://pooteeweet.org)
-
-
-
 
 ##<a name="tool" >Tools</a>
 
@@ -225,7 +216,9 @@ I tried them to categorize and give them a structure.
 
 
 
-# <a name="learnbygaming">Learn with Games and Challenges</a>   
+
+
+## <a name="learnbygaming">Learn with Games and Challenges</a>   
 * [Hackerrank](https://www.hackerrank.com/) -  A lot of programming challenges, where you can compete against others
 * [Codewars](http://www.codewars.com/) - A lot of Katas/Dojos/Challenges with Badges
 * [Coderbyte](http://coderbyte.com/) - Learning - Put your programming skills to the test
@@ -235,13 +228,19 @@ I tried them to categorize and give them a structure.
 * [Dungeons and Developers](http://www.dungeonsanddevelopers.com/) - An RPG-style talent tree for web developers
 * [Code Combat](http://codecombat.com/) - Learn javascript programming with a real game, where you have to code the moves to win the battle
 
-# <a name="learning">Learning</a>   
+
+
+
+
+## <a name="learning">Learning</a>   
 * [Codecademy](http://www.codecademy.com/) - Learn step by step different languages online
 * [Playterm](http://playterm.org/) - Educational Linux Shell Replays
 * [AppendTo](http://learn.appendto.com/lessons) - free javascript/jquery video lessons
 * [Nodeschool.io](http://nodeschool.io/) - Interactive Node Workshops
 * [Stackoverflow recommended list of dev books](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?page=1&tab=votes#tab-top)
 * [Perfschool](https://github.com/bevacqua/perfschool) - Interactive Performance Workshop
+
+
 
 
 
