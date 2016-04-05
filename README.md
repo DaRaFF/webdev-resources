@@ -44,7 +44,6 @@ I tried them to categorize and give them a structure.
 * EN [Systems that Run Forever Self-heal and Scale by Joe Armstrong](http://www.infoq.com/presentations/self-heal-scalable-system)
 * EN [Micro-Service Architecture by Fred George](http://www.youtube.com/watch?v=2rKEveL55TY&list=WL4F525DD3809ED677)
 * EN [Introduction to NoSQL by Martin Fowler](http://www.youtube.com/watch?v=qI_g07C_Q5I)
-* EN [Architecture the Lost Years by Robert Martin](http://www.youtube.com/watch?v=WpkDN78P884)
 * EN [Clean Architecture by Robert Martin](https://www.youtube.com/watch?v=Nltqi7ODZTM)
 * EN [The Art of Simplicity by Venkat Subramaniam](https://www.youtube.com/watch?v=-ZPgO5USBoI&index=4&list=PLwKze3Ty-pjZJ31ye7WaFlkJ0LzXK76Tb)
 * DE [Rewrites überleben](http://www.youtube.com/watch?v=Ylk8RrRSL2c&list=WL4F525DD3809ED677)
