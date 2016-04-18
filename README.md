@@ -112,6 +112,9 @@ I tried them to categorize and give them a structure.
 * [Mashape](https://www.mashape.com/) - API Services
 * [Kong](https://getkong.org/) - Secure and Manage your Microservices + APIs behind Kong as infrastructure layer
 * [Zapier](https://zapier.com/) - Service to connect different apps together
+* [Zeit.co](https://zeit.co/) - A realtime node.js deployment Service
+* [Deploy Bot](http://deploybot.com/) - A service to deploy code anywhere
+* [Rancher](http://rancher.com/) - A plattform for running containers
 
 
 
