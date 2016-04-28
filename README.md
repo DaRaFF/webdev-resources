@@ -115,6 +115,7 @@ I tried them to categorize and give them a structure.
 * [Zeit.co](https://zeit.co/) - A realtime node.js deployment Service
 * [Deploy Bot](http://deploybot.com/) - A service to deploy code anywhere
 * [Rancher](http://rancher.com/) - A plattform for running containers
+* [Concourse CI](https://concourse.ci) - Continuous Integration Platform with a streamed build pipeline
 
 
 
