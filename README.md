@@ -39,6 +39,7 @@ I tried them to categorize and give them a structure.
 * EN [Stop Drawing Dead Fish by Bret Victor](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * EN [CQRS and Event Sourcing by Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs)
 * EN [CQRS by Greg Young](http://www.infoq.com/presentations/greg-young-unshackle-qcon08)
+* EN [The art of destroying software by Greg Young](https://vimeo.com/108441214)
 * EN [Make Roles Explicit by Udi Dahan](http://www.infoq.com/presentations/Making-Roles-Explicit-Udi-Dahan)
 * EN [CQRS Introduction by Udi Dahan](https://www.youtube.com/watch?v=EkEz3pcLdgY)
 * EN [Systems that Run Forever Self-heal and Scale by Joe Armstrong](http://www.infoq.com/presentations/self-heal-scalable-system)
@@ -134,6 +135,7 @@ I tried them to categorize and give them a structure.
 * [Webplatform Docs](http://docs.webplatform.org/wiki/Main_Page) - Community-driven site that aims to become a comprehensive and authoritative source for web developer documentation
 * [DevDocs](http://devdocs.io/) - Searchable Documentation for HTML5/CSS/JS/HTTP/...
 * [Feed the Bot](http://www.feedthebot.com) - Great articles about Webpage optimisation like Speed/Mobile/SEO
+* [Nodecasts](https://nodecasts.io) - Free weekly episodes around the node topic
 
 
 
