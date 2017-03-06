@@ -75,6 +75,7 @@ I tried them to categorize and give them a structure.
 * [Javascript Pattern Collection](http://shichuan.github.com/javascript-patterns/) - by shichuan
 * [SOLID Javascript](http://freshbrewedcode.com/derekgreer/2011/12/08/solid-javascript-single-responsibility-principle/) - by Derek Greer
 * [Designing Better Javascript API's](http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/) - Concept - by Rodney Rehm
+* [Pull Stream Examples](https://github.com/dominictarr/pull-stream-examples)
 
 ###Software Patterns General
 * [Sourcemaking](http://sourcemaking.com) - Concept - Design Patterns and Refactoring - Collection and explanations of patterns, anti patterns, refactoring, uml                                                                          
@@ -250,19 +251,6 @@ I tried them to categorize and give them a structure.
 
 
 
-
-##<a name="framework">Frameworks</a>
-
-###jQuery
-* [jQuery Perfomance Improvement Tips](http://24ways.org/2011/your-jquery-now-with-less-suck) - Knowhow
-* [jQuery Essentials](http://speakerdeck.com/u/addyosmani/p/the-jquery-essentials-1) - Learning
-* [Learn jQuery in 30 Days](http://learnjquery.tutsplus.com/) - Learning
-* [Appendto](http://learn.appendto.com/) - Learning - jQuery and Javascript screencasts to learn jQuery and Javascript
-* [The 50 most useful plugins in 2011](http://speckyboy.com/2011/12/07/the-50-most-useful-jquery-plugins-from-2011/)
-
-
-
-
 ##<a name="boilerplate">Boilerplate</a>
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [HTML5 Mobile Boilerplate](http://html5boilerplate.com/mobile/)
@@ -272,10 +260,6 @@ I tried them to categorize and give them a structure.
 * [Twitter Bootstrap Themes](http://www.naden.de/blog/twitter-bootstrap-themes)
 * [jQuery Boilerplate](http://jqueryboilerplate.com/)
 * [MEAN Boilerplate](https://github.com/linnovate/mean) - MEAN is a boilerplate that provides a nice starting point for MongoDB, Node.js, Express, and AngularJS based applications.
-
-###RUP
-* [UPEDU](http://www.upedu.org/) - "Lightweight" RUP
-* [RUP Templates](http://www.ts.mah.se/RUP/RationalUnifiedProcess/) - Templates and some examples of RUP
 
 
 
