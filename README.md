@@ -82,6 +82,7 @@ I tried them to categorize and give them a structure.
 * [Scalable and modular architecture for css](http://smacss.com/book/) - Concept - Best practices on how to design proper css
 * [12 factor app](http://12factor.net/) - Concept - A methodology for building software-as-a-service apps
 * [Event Sourcing](https://www.npmjs.com/package/eventsourced-object) - Concept - Gathered sources for event sourcing
+* [Learn how to Large Scale Systems](https://github.com/donnemartin/system-design-primer) - Learning
 
 
 
