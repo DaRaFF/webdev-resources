@@ -28,9 +28,8 @@ I tried them to categorize and give them a structure.
 * [Frameworks](#framework)
 * [Boilerplate](#boilerplate)
 * [Articles](#article)
-* [Browser Plugins](#browser-plugin)
-* [Email Newsletter](#newsletter)
-* [Security](#security)
+
+
 
 ##<a name="mustsee">Must See</a>
 ###Video
@@ -267,14 +266,6 @@ I tried them to categorize and give them a structure.
 
 ##<a name="article">Articles / Slides  / Video</a>
 
-### Performance
-* [Design for Performance](https://speakerdeck.com/lara/design-for-performance)
-* [Page Speed: How Soon Will Visitors See Your Content?](http://www.sitepoint.com/page-speed-soon-visitors-see-content/) - Excellent article with a lot of good links 
-* [Fluent 2014, "Keynote With Paul Irish"](http://youtu.be/R8W_6xWphtw) - improvements of webpageloadtime
-* [High Performance Websites with Steve Souders](https://www.youtube.com/watch?v=iaOhgeCIj0w)
-* [Webpage Performance Optimisation - Part 1](http://programming.oreilly.com/2012/05/velocity-performance-makeover.html)
-* [Webpage Performance Optimisation - Part 2](http://programming.oreilly.com/2014/03/tailoring-for-performance.html)
-
 ### HTTP
 * [HTTP Headers for Dummies](http://net.tutsplus.com/tutorials/other/http-headers-for-dummies/) - Knowhow
 * [Why Every Webdeveloper Should Read the HTTP Specification](http://blog.liip.ch/archive/2011/05/19/why-every-web-developer-should-read-the-http-specifications.html) - Knowhow
@@ -297,30 +288,3 @@ I tried them to categorize and give them a structure.
 
 ### Slides
 * [Fabien Potencier - Look Beyond PHP](http://www.slideshare.net/fabpot/look-beyond-php)
-
-### Music
-* [Multiplayer Online Musice Instrument](http://labs.dinahmoe.com/plink/)
-
-
-
-
-##<a name="browser-plugin" >Browser Plugins</a>
-###Chrome
-* [Web Developer](http://chrispederick.com/work/web-developer/) - The Web Developer extension adds various web developer tools to a browser
-* [Ripple](https://chrome.google.com/webstore/detail/geelfhphabnejjhdalkjhgipohgpdnoc) - Emulator for different Environments like tablet and mobile
-* [Edit this Cookie](https://chrome.google.com/webstore/detail/fngmhnnpilhplaeedifhccceomclgfbg) - Cookie modifier for chrome
-* [JSON View](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc) - Get beautified JSON Responses
-
-###Firefox
-* [FireBug](http://getfirebug.com/) - The most popular and powerful web development tool
-* [FirePHP](http://www.firephp.org/) - FirePHP enables you to log to your Firebug Console using a simple PHP method call.
-* [FirePath](https://addons.mozilla.org/de/firefox/addon/firepath/) - tool to edit, inspect and generate XPath 1.0 expressions, CSS 3 selectors and JQuery selectors
-* [Web Developer](http://chrispederick.com/work/web-developer/) - The Web Developer extension adds various web developer tools to a browser
-* [HttpFox](https://addons.mozilla.org/en-US/firefox/addon/httpfox/) - monitors incoming and outgoing HTTP traffic
-* [YSlow](http://developer.yahoo.com/yslow/) - YSlow analyzes web pages and suggests ways to improve their performance
-* [User Agent Switcher](http://chrispederick.com/work/user-agent-switcher/) - Switch the user agent of a browser
-* [PHP Developer Toolbar](https://addons.mozilla.org/de/firefox/addon/php-developer-toolbar/?src=api) - With this addon you can search functions quickly for the official function description directly into your browser
-* [Modify Headers](http://www.garethhunt.com/modifyheaders/) - Modify all possible header in a browser
-* [easy XDebug](https://addons.mozilla.org/en-US/firefox/addon/easy-xdebug/) - Plugin for Debugging with XDebug
-* [Unplug](https://addons.mozilla.org/en-US/firefox/addon/unplug/) - Download embedded web videos
-* [Video Download Helper](https://addons.mozilla.org/de/firefox/addon/video-downloadhelper/) - Download embedded web videos
