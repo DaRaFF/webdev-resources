@@ -208,17 +208,8 @@ I tried them to categorize and give them a structure.
 * [regex101](https://regex101.com) - Regex Service
 * [NGrok](https://ngrok.com/) - share your localhost with the internet
 * [.htaccess tester](http://htaccess.madewithlove.be/)
-* [Screenr](http://www.screenr.com/) - make online screencasts for free
 * [Sound and Movie Loops](http://www.hark.com/)
-* [Templatr](http://templatr.cc/) - Create online a webside template
 * [TuttiJs](http://tuttijs.com/) - Test Javascript on different browsers simultaneously
-* [Ci Testling](https://ci.testling.com/) - Test Javascript on every commit
-* [h5bp-docs](https://github.com/mklabs/h5bp-docs) - website generator out of markdown files
-* [real time web technologie guide](http://www.leggetter.co.uk/real-time-web-technologies-guide) - list of tools for real time communication
-* [jsdo it](http://jsdo.it/) - javascript live code sharing / editing
-* [hurl](http://hurl.it/) - do curl like requests online
-* [puhpet](https://www.puphpet.com/) - Vagrantfile Generator with simple GUI for Web Development
-* [rove](http://rove.io/) - Vagrantfile Generator with simple GUI
 * [List of HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
 
