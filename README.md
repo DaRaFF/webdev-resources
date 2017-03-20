@@ -3,7 +3,7 @@ As webdeveloper I see daily tons of good resources and want to share them with t
 
 I tried them to categorize and give them a structure.
 
-###Type of Content
+### Type of Content
 
 * Concept - General view on how to design and create things
 * Standard - A defined standard for a technologie
@@ -14,7 +14,7 @@ I tried them to categorize and give them a structure.
 
         
 
-##Index
+## Index
 * [Must See](#mustsee)
 * [Software Design](#softwaredesign)
 * [Clean Code](#cleancode)
@@ -31,8 +31,8 @@ I tried them to categorize and give them a structure.
 
 
 
-##<a name="mustsee">Must See</a>
-###Video
+## <a name="mustsee">Must See</a>
+### Video
 * EN [Inventing on Principle by Bret Victor](http://vimeo.com/36579366)
 * EN [The Future of Programming by Bret Victor](https://vimeo.com/71278954)
 * EN [Stop Drawing Dead Fish by Bret Victor](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
@@ -49,7 +49,7 @@ I tried them to categorize and give them a structure.
 * EN [The Art of Simplicity by Venkat Subramaniam](https://www.youtube.com/watch?v=-ZPgO5USBoI&index=4&list=PLwKze3Ty-pjZJ31ye7WaFlkJ0LzXK76Tb)
 * DE [Rewrites überleben](http://www.youtube.com/watch?v=Ylk8RrRSL2c&list=WL4F525DD3809ED677)
 
-###Slides
+### Slides
 * [Your Code Sucks - Letz fix it](http://de.slideshare.net/rdohms/your-code-sucks-lets-fix-it-15000359)
 * [The Landscape Of Front-end Development Automation](http://updates.html5rocks.com/2013/11/The-Landscape-Of-Front-end-Development-Automation-Slides)
 * [Cool like Frontend Developer -  Grunt, RequireJs, Bower and other Tools](http://de.slideshare.net/weaverryan/cool-like-frontend-developer-grunt-requirejs-bower-and-other-tools-29177248)
@@ -58,14 +58,14 @@ I tried them to categorize and give them a structure.
 
 
 ##<a name="softwaredesign">Software Design</a>
-###PHP
+### PHP
 * [Practical PHP Testing Patterns](http://css.dzone.com/books/practical-php-testing-patterns) - Concept - by Giorgio Sironi
 * [Practical PHP Patterns](http://css.dzone.com/books/practical-php-patterns) - Concept - by Giorgio Sironi
 * [Practical PHP Refactoring](http://css.dzone.com/category/tags/practical-php-refactoring) - Concept - by Giorgio Sironi
 * [Create your own Framework on top of the Symfony2 Components](http://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-symfony2-components-part-1) - Learning - by Fabien Potencier
 * [Chaplin](https://github.com/moviepilot/chaplin) - Concept - A Sample Application Architecture Using Backbone.js
 
-###Javascript
+### Javascript
 * [Design Patterns in Javascript](https://github.com/tcorral/Design-Patterns-in-Javascript) - Concept - based on head first design patterns book
 * [Backbone.js Fundamentals](https://github.com/addyosmani/backbone-fundamentals#readme) - complete run down of backbone.js applications including modular design, AMD, how to solve routing problems
 * [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - free eBook by Addy Osmani
@@ -76,17 +76,18 @@ I tried them to categorize and give them a structure.
 * [Designing Better Javascript API's](http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/) - Concept - by Rodney Rehm
 * [Pull Stream Examples](https://github.com/dominictarr/pull-stream-examples)
 
-###Software Patterns General
+### Software Patterns General
 * [Sourcemaking](http://sourcemaking.com) - Concept - Design Patterns and Refactoring - Collection and explanations of patterns, anti patterns, refactoring, uml                                                                          
 * [Scalable and modular architecture for css](http://smacss.com/book/) - Concept - Best practices on how to design proper css
 * [12 factor app](http://12factor.net/) - Concept - A methodology for building software-as-a-service apps
 * [Event Sourcing](https://www.npmjs.com/package/eventsourced-object) - Concept - Gathered sources for event sourcing
 * [Learn how to Large Scale Systems](https://github.com/donnemartin/system-design-primer) - Learning
+* [Data Structures](http://btechsmartclass.com/DS/U3_T1.html) - Learning
 
 
 
 
-##<a name="cleancode">Clean Code</a>
+## <a name="cleancode">Clean Code</a>
 * [Front End Development Guidelines](http://taitems.github.com/Front-End-Development-Guidelines/)
 * [Idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [Javascript Garden](http://bonsaiden.github.com/JavaScript-Garden/) - Best Practises for Javascript Programming
@@ -98,7 +99,7 @@ I tried them to categorize and give them a structure.
 
 
 
-##<a name="standard" >Standards / Specifications</a>
+## <a name="standard" >Standards / Specifications</a>
 
 * [PHP Standards](https://github.com/pmjones/fig-standards) - Description of PHP Standards, well known as PSR-0, PSR-1, ...
 * [Semantic Versioning](http://semver.org/)
@@ -109,7 +110,7 @@ I tried them to categorize and give them a structure.
 
 
 
-##<a name="service">Services</a>
+## <a name="service">Services</a>
 
 * [Swagger](http://swagger.io/) - Framework for API Specification (specify your API with yml)
 * [Apiary](https://apiary.io/) - Framework for API Specification (specify your API with yml)
@@ -124,7 +125,7 @@ I tried them to categorize and give them a structure.
 
 
 
-##<a name="greatresources" >Great Resources</a>
+## <a name="greatresources" >Great Resources</a>
 * [makeawesomeweb](http://makeawesomeweb.com/) - link list with preview of the best web development tools
 * [JsGoodies](http://js.gd/) - daily links of interesting web tools
 * [move the web forward](http://movethewebforward.org/) - resources, tips for web development - initiative by paul irish, addy osmani and a lot of other respected people in the web developer scene
@@ -142,7 +143,7 @@ I tried them to categorize and give them a structure.
 
 
 
-##<a name="ebook" >eBooks</a>
+## <a name="ebook" >eBooks</a>
 * [JsBooks](http://jsbooks.revolunet.com/) - free eBooks for javascript
 * [Node.js for Beginner](http://www.nodebeginner.org/) - node.js for beginner
 * [proGit](http://progit.org/book/)
@@ -162,25 +163,25 @@ I tried them to categorize and give them a structure.
 
 
 
-##<a name="tool" >Tools</a>
+## <a name="tool" >Tools</a>
 
-###Software Analysis / Design
+### Software Analysis / Design
 * [YUML](http://www.yuml.me/) - UML diagrams
 * [Gliffy](http://www.gliffy.com/) - UML diagrams
 * [Websequence Diagrams](http://www.websequencediagrams.com/) - Sequence diagrams
 * [Creately](https://creately.com/) - Sequence + Class diagrams
 
-###Editors
+### Editors
 * [jsbin](http://jsbin.com/) - Javscript Editor in Browser
 * [jsfiddle](http://jsfiddle.net/) - Javascript Editor in Browser
 * [cloud9ide](http://cloud9ide.com/) - Collaborative Browser IDE for Development
 
-###CSS3
+### CSS3
 * [CSS3 Maker](http://www.css3maker.com) - CSS Maker is a free tool to experiment with CSS properties and values and generate a simple stylesheet for your site.
 * [CSS3 Generator](http://css3generator.com/)
 * [CSS3 Clickchart](http://css3clickchart.com/)
 
-###Graphics / Design
+### Graphics / Design
 * [Typecast](http://typecast.com/) - to create visual and semantic designs live and share the results
 * [Responsify](http://responsify.it/) - Create online a responsive grid and download the template
 * [Fontsquirrel](http://www.fontsquirrel.com/) - Handpicket free fonts, also with a @font-face generator
@@ -189,7 +190,7 @@ I tried them to categorize and give them a structure.
 * [SpriteCow](http://www.spritecow.com/) - helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css
 * [ResponsivePx](http://responsivepx.com/) - Online tool which helps to find exact pixel sizes for responsive webdesign
  
-###Performance
+### Performance
 * [Webpagetest](http://www.webpagetest.org/) - Checks a website and analyzes performance issues
 * [GTMetrix](http://gtmetrix.com) - Checks different pages based on yslow and other tools and creates a report with suggestions
 * [Pingdom](http://tools.pingdom.com/fpt/) - Checks a website and analyzes performance issues
@@ -203,7 +204,7 @@ I tried them to categorize and give them a structure.
 * [DOM Monster](http://mir.aculo.us/dom-monster/) - bookmarklet, which analyzes the DOM and give you tips how to improve
 
 
-###Others
+### Others
 * [DevNullSmtp](http://www.aboutmyip.com/AboutMyXApp/DevNullSmtp.jsp) - Devnull SMTP server - a dummy email server for testing purposes
 * [regex101](https://regex101.com) - Regex Service
 * [NGrok](https://ngrok.com/) - share your localhost with the internet
@@ -242,7 +243,7 @@ I tried them to categorize and give them a structure.
 
 
 
-##<a name="boilerplate">Boilerplate</a>
+## <a name="boilerplate">Boilerplate</a>
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [HTML5 Mobile Boilerplate](http://html5boilerplate.com/mobile/)
 * [HTML5 Reset](http://html5reset.org/)
@@ -255,7 +256,7 @@ I tried them to categorize and give them a structure.
 
 
 
-##<a name="article">Articles / Slides  / Video</a>
+## <a name="article">Articles / Slides  / Video</a>
 
 ### HTTP
 * [HTTP Headers for Dummies](http://net.tutsplus.com/tutorials/other/http-headers-for-dummies/) - Knowhow
