@@ -158,6 +158,7 @@ I tried them to categorize and give them a structure.
 * [leanpub](http://leanpub.com/) - create you own eBook
 * [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/) - 54 Lessons with exercises about Regex
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
+* [Exploring ES6 by Axel Rauschmayer](http://exploringjs.com/es6/)
 
 
 
