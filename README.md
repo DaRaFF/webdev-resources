@@ -44,6 +44,7 @@ I tried them to categorize and give them a structure.
 * EN [Systems that Run Forever Self-heal and Scale by Joe Armstrong](http://www.infoq.com/presentations/self-heal-scalable-system)
 * EN [Implementing Programmer Anarchy by Fred George](https://www.youtube.com/watch?v=tIxHmsWCd7g)
 * EN [Micro-Service Architecture by Fred George](http://www.youtube.com/watch?v=2rKEveL55TY&list=WL4F525DD3809ED677)
+* EN [Principles Of Microservices by Sam Newman](https://www.youtube.com/watch?v=PFQnNFe27kU)
 * EN [Introduction to NoSQL by Martin Fowler](http://www.youtube.com/watch?v=qI_g07C_Q5I)
 * EN [Clean Architecture by Robert Martin](https://www.youtube.com/watch?v=Nltqi7ODZTM)
 * EN [The Future of Programming by Robert Martin](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=80s&list=PLwKze3Ty-pjaxKcRaoqudnd9Btn3v3N4L&index=22)
