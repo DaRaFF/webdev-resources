@@ -167,7 +167,7 @@ I tried them to categorize and give them a structure.
 ## <a name="tool" >Tools</a>
 
 ### Software Analysis / Design
-* [YUML](http://www.yuml.me/) - UML diagrams
+* [draw.io](http://www.draw.io) - Quick and easy way to draw diagrams
 * [Gliffy](http://www.gliffy.com/) - UML diagrams
 * [Websequence Diagrams](http://www.websequencediagrams.com/) - Sequence diagrams
 * [Creately](https://creately.com/) - Sequence + Class diagrams
@@ -198,9 +198,6 @@ I tried them to categorize and give them a structure.
 * [Google Page Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyze the page and get tips how to improve the performance
 * [Loads In](http://loads.in/) - Online Test of Webpage Load time
 * [Webwait](http://webwait.com/) - Very small tool to test website responses and compare with different websites
-* [YSlow for chrome](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) - YSlow Browser Plugin
-* [YSlow for firefox](https://addons.mozilla.org/de/firefox/addon/yslow/) - YSlow Browser Plugin
-* [Article Performance](http://www.uxbooth.com/articles/how-to-minimize-load-time-for-fast-user-experiences/)
 * [Yahoo Guideline](http://developer.yahoo.com/performance/rules.html) - Knowhow
 * [DOM Monster](http://mir.aculo.us/dom-monster/) - bookmarklet, which analyzes the DOM and give you tips how to improve
 
@@ -212,7 +209,6 @@ I tried them to categorize and give them a structure.
 * [.htaccess tester](http://htaccess.madewithlove.be/)
 * [Sound and Movie Loops](http://www.hark.com/)
 * [TuttiJs](http://tuttijs.com/) - Test Javascript on different browsers simultaneously
-* [List of HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
 
 
@@ -248,10 +244,8 @@ I tried them to categorize and give them a structure.
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [HTML5 Mobile Boilerplate](http://html5boilerplate.com/mobile/)
 * [HTML5 Reset](http://html5reset.org/)
-* [jQuery Plugin Boilerplate](http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/)
 * [Twitter Bootstrap](http://twitter.github.io/bootstrap/)
 * [Twitter Bootstrap Themes](http://www.naden.de/blog/twitter-bootstrap-themes)
-* [jQuery Boilerplate](http://jqueryboilerplate.com/)
 * [MEAN Boilerplate](https://github.com/linnovate/mean) - MEAN is a boilerplate that provides a nice starting point for MongoDB, Node.js, Express, and AngularJS based applications.
 
 
@@ -263,21 +257,9 @@ I tried them to categorize and give them a structure.
 * [HTTP Headers for Dummies](http://net.tutsplus.com/tutorials/other/http-headers-for-dummies/) - Knowhow
 * [Why Every Webdeveloper Should Read the HTTP Specification](http://blog.liip.ch/archive/2011/05/19/why-every-web-developer-should-read-the-http-specifications.html) - Knowhow
 
-### HTML5
-* [Polyfill the HTML5 Gaps](http://addyosmani.com/polyfillthehtml5gaps/slides/) - Knowhow, Slides
-
-### jQuery
-* [Building Stateful jQuery Plugins (Widgets)](http://blog.nemikor.com/2010/05/15/building-stateful-jquery-plugins/) - Knowhow
-
 ### CSS3
 * [CSS Position Einmaleins](http://kleines-universum.de/html-css/css-position-einmaleins-aus-alistapart/) - german
 * [The 30 CSS Selectors You Must Memorize](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/) - Knowhow
-
-### Websockets
-* [Websocket Basics](http://www.html5rocks.com/en/tutorials/websockets/basics/) - Concept
-
-### NodeJS
-* [An advanced Example of NodeJS, Express.js (mvc), EJS (templating) and socket.io (sockets) which really works](http://borntoprogram.blogspot.com/2011/07/reaktiv-im-web-mit-nodejsexpressjssocke.html) - Knowhow - German
 
 ### Slides
 * [Fabien Potencier - Look Beyond PHP](http://www.slideshare.net/fabpot/look-beyond-php)
