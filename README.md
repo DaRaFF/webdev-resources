@@ -168,6 +168,7 @@ I tried them to categorize and give them a structure.
 
 ### Software Analysis / Design
 * [draw.io](http://www.draw.io) - Quick and easy way to draw diagrams
+* [Realtimeboard](https://realtimeboard.com) - Quick and easy way to draw diagrams
 * [Gliffy](http://www.gliffy.com/) - UML diagrams
 * [Websequence Diagrams](http://www.websequencediagrams.com/) - Sequence diagrams
 * [Creately](https://creately.com/) - Sequence + Class diagrams
@@ -203,6 +204,7 @@ I tried them to categorize and give them a structure.
 
 
 ### Others
+* [Slides](https://slides.com/) - Presentation tool
 * [DevNullSmtp](http://www.aboutmyip.com/AboutMyXApp/DevNullSmtp.jsp) - Devnull SMTP server - a dummy email server for testing purposes
 * [regex101](https://regex101.com) - Regex Service
 * [NGrok](https://ngrok.com/) - share your localhost with the internet
