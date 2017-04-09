@@ -113,6 +113,7 @@ I tried them to categorize and give them a structure.
 
 ## <a name="service">Services</a>
 
+* [Free for Dev](https://github.com/ripienaar/free-for-dev#log-management) - Awesome Repo with list of free SaaS, PaaS and IaaS services
 * [Swagger](http://swagger.io/) - Framework for API Specification (specify your API with yml)
 * [Apiary](https://apiary.io/) - Framework for API Specification (specify your API with yml)
 * [Mashape](https://www.mashape.com/) - API Services
