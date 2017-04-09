@@ -41,6 +41,7 @@ I tried them to categorize and give them a structure.
 * EN [The art of destroying software by Greg Young](https://vimeo.com/108441214)
 * EN [Make Roles Explicit by Udi Dahan](http://www.infoq.com/presentations/Making-Roles-Explicit-Udi-Dahan)
 * EN [CQRS Introduction by Udi Dahan](https://www.youtube.com/watch?v=EkEz3pcLdgY)
+* EN [Building Microservices with Event Sourcing and CQRS by Michael Ploed](https://www.youtube.com/watch?v=A0goyZ9F4bg) - This talk tries also to answer typical problems you have with Event Sourcing and CQRS
 * EN [Systems that Run Forever Self-heal and Scale by Joe Armstrong](http://www.infoq.com/presentations/self-heal-scalable-system)
 * EN [Implementing Programmer Anarchy by Fred George](https://www.youtube.com/watch?v=tIxHmsWCd7g)
 * EN [Micro-Service Architecture by Fred George](http://www.youtube.com/watch?v=2rKEveL55TY&list=WL4F525DD3809ED677)
