@@ -128,17 +128,13 @@ I tried them to categorize and give them a structure.
 
 
 ## <a name="greatresources" >Great Resources</a>
-* [makeawesomeweb](http://makeawesomeweb.com/) - link list with preview of the best web development tools
-* [JsGoodies](http://js.gd/) - daily links of interesting web tools
 * [move the web forward](http://movethewebforward.org/) - resources, tips for web development - initiative by paul irish, addy osmani and a lot of other respected people in the web developer scene
-* [Mobile Web Best Practises](http://mobilewebbestpractices.com/resources/) - link list of good resources for mobile web development
-* [Awesome PHP Libraries](https://gist.github.com/ziadoz/1677679)
+* [Awesome PHP Libraries](https://github.com/ziadoz/awesome-php)
 * [Superhero.js](http://superherojs.com/) - Collection of the best ressources for Javascript
 * [JavascriptOO](http://www.javascriptoo.com/) - Collection of the best ressources for Javascript
 * [Nodecloud](http://www.nodecloud.org/) - Collection of the best node.js ressources
 * [nerdi](http://nerdi.net/) - Collection of useful webdesign and development utilites
 * [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Huge list of awesome bookmarks for frontend development
-* [Webplatform Docs](http://docs.webplatform.org/wiki/Main_Page) - Community-driven site that aims to become a comprehensive and authoritative source for web developer documentation
 * [DevDocs](http://devdocs.io/) - Searchable Documentation for HTML5/CSS/JS/HTTP/...
 * [Feed the Bot](http://www.feedthebot.com) - Great articles about Webpage optimisation like Speed/Mobile/SEO
 * [Nodecasts](https://nodecasts.io) - Free weekly episodes around the node topic
