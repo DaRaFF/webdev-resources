@@ -86,6 +86,10 @@ I tried them to categorize and give them a structure.
 * [Learn how to Large Scale Systems](https://github.com/donnemartin/system-design-primer) - Learning
 * [Data Structures](http://btechsmartclass.com/DS/U3_T1.html) - Learning
 
+### Design
+* [Uplabs](https://www.uplabs.com/) - Learning - Tons of graphical designs to learn and get inspired from
+* [Dribbble](https://dribbble.com/) - Learning - Tons of graphical designs to learn and get inspired from
+
 
 
 
