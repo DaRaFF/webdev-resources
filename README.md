@@ -143,6 +143,7 @@ I tried them to categorize and give them a structure.
 * [DevDocs](http://devdocs.io/) - Searchable Documentation for HTML5/CSS/JS/HTTP/...
 * [Feed the Bot](http://www.feedthebot.com) - Great articles about Webpage optimisation like Speed/Mobile/SEO
 * [Nodecasts](https://nodecasts.io) - Free weekly episodes around the node topic
+* [Checkbot: Web Best Practices](https://www.checkbot.io/guide/) - Details 50+ SEO, speed and security web best practices.
 
 
 
@@ -205,7 +206,6 @@ I tried them to categorize and give them a structure.
 * [Yahoo Guideline](http://developer.yahoo.com/performance/rules.html) - Knowhow
 * [DOM Monster](http://mir.aculo.us/dom-monster/) - bookmarklet, which analyzes the DOM and give you tips how to improve
 
-
 ### Others
 * [Slides](https://slides.com/) - Presentation tool
 * [DevNullSmtp](http://www.aboutmyip.com/AboutMyXApp/DevNullSmtp.jsp) - Devnull SMTP server - a dummy email server for testing purposes
@@ -214,7 +214,7 @@ I tried them to categorize and give them a structure.
 * [.htaccess tester](http://htaccess.madewithlove.be/)
 * [Sound and Movie Loops](http://www.hark.com/)
 * [TuttiJs](http://tuttijs.com/) - Test Javascript on different browsers simultaneously
-
+* [Checkbot](https://www.checkbot.io/) - Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Crawls your site checking multiple pages at once.
 
 
 
