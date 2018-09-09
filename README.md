@@ -34,36 +34,36 @@ I tried them to categorize and give them a structure.
 ## <a name="mustsee">Must See</a>
 ### Video
 #### Innovation
-* EN [Inventing on Principle by Bret Victor](http://vimeo.com/36579366)
-* EN [The Future of Programming by Bret Victor](https://vimeo.com/71278954)
-* EN [Stop Drawing Dead Fish by Bret Victor](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+* Bret Victor - [Inventing on Principle](http://vimeo.com/36579366)
+* Bret Victor - [The Future of Programming by](https://vimeo.com/71278954)
+* Bret Victor - [Stop Drawing Dead Fish](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 #### Simplicity
-* [Simple Made Easy by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
-* [Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0&list=PLwKze3Ty-pjaxKcRaoqudnd9Btn3v3N4L)
-* [Clean Architecture by Robert Martin](https://www.youtube.com/watch?v=Nltqi7ODZTM)
-* [The Art of Simplicity by Venkat Subramaniam](https://www.youtube.com/watch?v=-ZPgO5USBoI&index=4&list=PLwKze3Ty-pjZJ31ye7WaFlkJ0LzXK76Tb)
+* Rich Hickey - [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+* Rich Hickey - [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0&list=PLwKze3Ty-pjaxKcRaoqudnd9Btn3v3N4L)
+* Robert C. Martin - [Clean Architecture](https://www.youtube.com/watch?v=Nltqi7ODZTM)
+* Venkat Subramaniam - [The Art of Simplicity](https://www.youtube.com/watch?v=-ZPgO5USBoI&index=4&list=PLwKze3Ty-pjZJ31ye7WaFlkJ0LzXK76Tb)
 
 #### CQRS / Event Sourcing / DDD
-* [CQRS and Event Sourcing by Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs)
-* [CQRS by Greg Young](http://www.infoq.com/presentations/greg-young-unshackle-qcon08)
-* [CQRS Introduction by Udi Dahan](https://www.youtube.com/watch?v=EkEz3pcLdgY)
-* [Make Roles Explicit by Udi Dahan](http://www.infoq.com/presentations/Making-Roles-Explicit-Udi-Dahan)
+* Greg Young - [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
+* Greg Young -[CQRS](http://www.infoq.com/presentations/greg-young-unshackle-qcon08)
+* Udi Dahan - [CQRS Introduction](https://www.youtube.com/watch?v=EkEz3pcLdgY)
+* Udi Dahan - [Make Roles Explicit](http://www.infoq.com/presentations/Making-Roles-Explicit-Udi-Dahan)
 
 #### Microservices
-* [Building Microservices with Event Sourcing and CQRS by Michael Ploed](https://www.youtube.com/watch?v=A0goyZ9F4bg) - This talk tries also to answer typical problems you have with Event Sourcing and CQRS
-* [Micro-Service Architecture by Fred George](http://www.youtube.com/watch?v=2rKEveL55TY&list=WL4F525DD3809ED677)
-* [Principles Of Microservices by Sam Newman](https://www.youtube.com/watch?v=PFQnNFe27kU)
-* [Practical Considerations for Microservice Architectures by Sam Newman](https://vimeo.com/105751281)
+* Michael Ploed - [Building Microservices with Event Sourcing and CQRS](https://www.youtube.com/watch?v=A0goyZ9F4bg) - This talk tries also to answer typical problems you have with Event Sourcing and CQRS
+* Fred George - [Micro-Service Architecture](http://www.youtube.com/watch?v=2rKEveL55TY&list=WL4F525DD3809ED677)
+* Sam Newman - [Principles Of Microservices](https://www.youtube.com/watch?v=PFQnNFe27kU)
+* Sam Newman - [Practical Considerations for Microservice Architectures](https://vimeo.com/105751281)
 
 #### Testing
-* [The art of destroying software by Greg Young](https://vimeo.com/108441214)
-* [TDD, Where Did It All Go Wrong by Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+* Greg Young - [The art of destroying software](https://vimeo.com/108441214)
+* Ian Cooper - [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 
 #### Not Categorized
-* [Systems that Run Forever Self-heal and Scale by Joe Armstrong](http://www.infoq.com/presentations/self-heal-scalable-system)
-* [Implementing Programmer Anarchy by Fred George](https://www.youtube.com/watch?v=tIxHmsWCd7g)
-* [The Future of Programming by Robert Martin](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=80s&list=PLwKze3Ty-pjaxKcRaoqudnd9Btn3v3N4L&index=22)
+* Joe Armstrong - [Systems that Run Forever Self-heal and Scale](http://www.infoq.com/presentations/self-heal-scalable-system)
+* Fred George - [Implementing Programmer Anarchy](https://www.youtube.com/watch?v=tIxHmsWCd7g)
+* Robert C. Martin - [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=80s&list=PLwKze3Ty-pjaxKcRaoqudnd9Btn3v3N4L&index=22)
 * [Rewrites überleben](http://www.youtube.com/watch?v=Ylk8RrRSL2c&list=WL4F525DD3809ED677)
 
 ### Slides
