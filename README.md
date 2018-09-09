@@ -51,6 +51,7 @@ I tried them to categorize and give them a structure.
 * EN [Clean Architecture by Robert Martin](https://www.youtube.com/watch?v=Nltqi7ODZTM)
 * EN [The Future of Programming by Robert Martin](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=80s&list=PLwKze3Ty-pjaxKcRaoqudnd9Btn3v3N4L&index=22)
 * EN [The Art of Simplicity by Venkat Subramaniam](https://www.youtube.com/watch?v=-ZPgO5USBoI&index=4&list=PLwKze3Ty-pjZJ31ye7WaFlkJ0LzXK76Tb)
+* EN [TDD, Where Did It All Go Wrong by Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 * DE [Rewrites überleben](http://www.youtube.com/watch?v=Ylk8RrRSL2c&list=WL4F525DD3809ED677)
 
 ### Slides
