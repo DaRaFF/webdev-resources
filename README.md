@@ -188,6 +188,7 @@ I tried them to categorize and give them a structure.
 * [Gliffy](http://www.gliffy.com/) - UML diagrams
 * [Websequence Diagrams](http://www.websequencediagrams.com/) - Sequence diagrams
 * [Creately](https://creately.com/) - Sequence + Class diagrams
+* [Gleek.io](https://www.gleek.io) - Description-to-diagrams tool for informal, UML class/object, or ER diagrams
 
 ### Editors
 * [jsbin](http://jsbin.com/) - Javscript Editor in Browser
